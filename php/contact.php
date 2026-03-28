@@ -44,33 +44,18 @@ if(trim($name) == '') {
 //$address = "example@themeforest.net";
 $address = "neilhornsey@gmail.com";
 
+$e_subject = 'King William IV enquiry from ' . $name . '.';
 
-// Configuration option.
-// i.e. The standard subject will appear as, "You've been contacted by John Doe."
+$e_body = "<b>From:</b> $name<br/><br/><b>Email:</b> $email<br/><b>Phone:</b> $phone<br/><br/><b>Message:</b><br/><br/>$comments";
 
-// Example, $e_subject = '$name . ' has contacted you via Your Website.';
+// working now for terrimullholland domain, but not x10
 
-$e_subject = 'You\'ve been contacted by ' . $name . '.';
+$headers = "From: King William Website <Laura@thekingwillie.co.uk>\r\n";
+$headers .= "Reply-To: $email\r\n";
+$headers .= "MIME-Version: 1.0\r\n";
+$headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
 
-
-// Configuration option.
-// You can change this if you feel that you need to.
-// Developers, you may wish to add more fields to the form, in which case you must be sure to add them here.
-
-$e_body = "You have been contacted by: $name" . PHP_EOL . PHP_EOL;
-$e_reply = "E-mail: $email\r\nPhone: $phone";
-$e_content = "Message:\r\n$comments" . PHP_EOL . PHP_EOL;
-
-
-$msg = wordwrap( $e_body . $e_content . $e_reply, 70 );
-
-$headers = "From: $email" . PHP_EOL;
-$headers .= "Reply-To: $email" . PHP_EOL;
-$headers .= "MIME-Version: 1.0" . PHP_EOL;
-$headers .= "Content-type: text/plain; charset=utf-8" . PHP_EOL;
-$headers .= "Content-Transfer-Encoding: quoted-printable" . PHP_EOL;
-
-if(mail($address, $e_subject, $msg, $headers)) {
+if(mail($address, $e_subject, $e_body, $headers)) {
 
 	// Email has sent successfully, echo a success page.
 
@@ -83,6 +68,7 @@ if(mail($address, $e_subject, $msg, $headers)) {
 
 } else {
 
-	echo 'ERROR!';
+	echo "<h1>Mail failed to send.</h1>";
+    error_log("Mail failed for: $email"); // logs to server
 
 }
