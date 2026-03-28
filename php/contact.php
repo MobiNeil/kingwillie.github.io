@@ -53,7 +53,7 @@ $e_body = "<b>From:</b> $name<br/><br/><b>Email:</b> $email<br/><b>Phone:</b> $p
 $headers = "From: King William Website <Laura@thekingwillie.co.uk>\r\n";
 $headers .= "Reply-To: $email\r\n";
 $headers .= "MIME-Version: 1.0\r\n";
-$headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
+$headers .= "Content-Type: text/html; charset=UTF-8\r\n";
 
 if(mail($address, $e_subject, $e_body, $headers)) {
 

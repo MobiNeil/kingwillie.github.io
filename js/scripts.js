@@ -250,24 +250,12 @@ function initLambert() {
         marker: {
 			// markers and locations------------------
             values: [ {
-                latLng: [ 40.7143528, -74.0059731 ],
-                data: "Lambert  - New York City",
+                latLng: [ 51.5556614,-0.1768173,1 ],
+                data: "King William IV Pub",
                 options: {
                     icon: "images/marker.png"
                 }
-            }, {
-                latLng: [ 40.7168183, -73.9973402 ],
-                data: "Lambert - Washington",
-                options: {
-                    icon: "images/marker.png"
-                }
-            }, {
-                latLng: [ 40.73334016, -73.99330616 ],
-                data: "Lambert - Florida",
-                options: {
-                    icon: "images/marker.png"
-                }
-            } ],
+            }],
             options: {
                 draggable: false
             },
