@@ -290,136 +290,14 @@ function initLambert() {
         },
         map: {
             options: {
-                zoom: 14,
+                zoom: 15,
                 zoomControl: true,
                 mapTypeControl: true,
                 scaleControl: true,
                 scrollwheel: false,
                 streetViewControl: true,
                 draggable: true,
-                styles: [ {
-                    featureType: "all",
-                    elementType: "labels.text",
-                    stylers: [ {
-                        weight: "0.04"
-                    }, {
-                        visibility: "simplified"
-                    } ]
-                }, {
-                    featureType: "administrative.locality",
-                    elementType: "all",
-                    stylers: [ {
-                        hue: "#C59D5F"
-                    }, {
-                        saturation: 7
-                    }, {
-                        lightness: 19
-                    }, {
-                        visibility: "on"
-                    } ]
-                }, {
-                    featureType: "administrative.locality",
-                    elementType: "labels.text",
-                    stylers: [ {
-                        hue: "#ffde00"
-                    } ]
-                }, {
-                    featureType: "landscape",
-                    elementType: "all",
-                    stylers: [ {
-                        hue: "#ffffff"
-                    }, {
-                        saturation: -100
-                    }, {
-                        lightness: 100
-                    }, {
-                        visibility: "simplified"
-                    } ]
-                }, {
-                    featureType: "poi",
-                    elementType: "all",
-                    stylers: [ {
-                        hue: "#C59D5F"
-                    }, {
-                        saturation: -100
-                    }, {
-                        lightness: 100
-                    }, {
-                        visibility: "off"
-                    } ]
-                }, {
-                    featureType: "road",
-                    elementType: "geometry",
-                    stylers: [ {
-                        hue: "#C59D5F"
-                    }, {
-                        saturation: -93
-                    }, {
-                        lightness: 31
-                    }, {
-                        visibility: "simplified"
-                    } ]
-                }, {
-                    featureType: "road",
-                    elementType: "labels",
-                    stylers: [ {
-                        hue: "#C59D5F"
-                    }, {
-                        saturation: -93
-                    }, {
-                        lightness: 31
-                    }, {
-                        visibility: "on"
-                    } ]
-                }, {
-                    featureType: "road.arterial",
-                    elementType: "labels",
-                    stylers: [ {
-                        hue: "#C59D5F"
-                    }, {
-                        saturation: -93
-                    }, {
-                        lightness: -2
-                    }, {
-                        visibility: "simplified"
-                    } ]
-                }, {
-                    featureType: "road.local",
-                    elementType: "geometry",
-                    stylers: [ {
-                        hue: "#C59D5F"
-                    }, {
-                        saturation: -90
-                    }, {
-                        lightness: -8
-                    }, {
-                        visibility: "simplified"
-                    } ]
-                }, {
-                    featureType: "transit",
-                    elementType: "all",
-                    stylers: [ {
-                        hue: "#C59D5F"
-                    }, {
-                        saturation: 10
-                    }, {
-                        lightness: 69
-                    }, {
-                        visibility: "on"
-                    } ]
-                }, {
-                    featureType: "water",
-                    elementType: "all",
-                    stylers: [ {
-                        hue: "#C59D5F"
-                    }, {
-                        saturation: -78
-                    }, {
-                        lightness: 67
-                    }, {
-                        visibility: "simplified"
-                    } ]
-                } ]
+                
             }
         }
     });
