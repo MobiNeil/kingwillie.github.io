@@ -24,7 +24,6 @@ if(trim($name) == '') {
 } else if(trim($phone) == '') {
 	echo '<div class="error_message">Attention! Please enter a valid phone number.</div>';
 	exit();
- 
 } else if(!isEmail($email)) {
 	echo '<div class="error_message">Attention! You have enter an invalid e-mail address, try again.</div>';
 	exit();
@@ -33,15 +32,9 @@ if(trim($name) == '') {
 	exit();
 } 
  
-	$comments = stripslashes($comments);
- 
+$comments = stripslashes($comments);
 
-
-// Configuration option.
 // Enter the email address that you want to emails to be sent to.
-// Example $address = "joe.doe@yourdomain.com";
-
-//$address = "example@themeforest.net";
 $address = "neilhornsey@gmail.com";
 
 $e_subject = 'King William IV enquiry from ' . $name . '.';
@@ -49,7 +42,8 @@ $e_subject = 'King William IV enquiry from ' . $name . '.';
 $e_body = "<b>From:</b> $name<br/><br/><b>Email:</b> $email<br/><b>Phone:</b> $phone<br/><br/><b>Message:</b><br/><br/>$comments";
 
 // working now for terrimullholland domain, but not x10
-
+// note that for this to work with x10, the from address must be one that is registered with the account
+// such as: xqdworbt@mobineil.x10.network
 $headers = "From: King William Website <Laura@thekingwillie.co.uk>\r\n";
 $headers .= "Reply-To: $email\r\n";
 $headers .= "MIME-Version: 1.0\r\n";
