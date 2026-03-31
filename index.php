@@ -163,7 +163,7 @@
                             </div>
                             <div class="row">
                                 <div class="col-md-12">
-                                    <div class="big-number"><a href="#">+7(111)123456789</a></div>
+                                    <div class="big-number"><a href="#">0207 435 5153</a></div>
                                 </div>
                             </div>
                         </div>
@@ -445,13 +445,6 @@
                     <section>
                         <div class="triangle-decor"></div>
                         <div class="container">
-                            <div class="gallery-filters">
-                                <a href="#" class="gallery-filter gallery-filter-active"  data-filter="*">All</a>
-                                <a href="#" class="gallery-filter " data-filter=".menu">Menu </a>
-                                <a href="#" class="gallery-filter" data-filter=".rest">Restaurant</a>
-                                <a href="#" class="gallery-filter" data-filter=".ovid">Video</a>
-                            </div>
-                            <div class="bold-separator"><span></span></div>
                             <div class="row">
                                 <div class="col-md-12">
                                     <div class="gallery-items three-coulms grid-small-pad popup-gallery">
