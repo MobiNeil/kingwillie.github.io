@@ -217,99 +217,14 @@
                         <div class="bg bg-parallax" style="background-image:url(images/bg/1.jpg)" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);"></div>
                         <div class="overlay"></div>
                         <div class="container">
-                            <h2>What's happening</h2>
-                            <h3>Live Music</h3>
-                            <div class="bold-separator">
-                                <span></span>
-                            </div>
-                            <div class="row">
-                                <!-- 1 -->
-                                <div class="col-md-12">
-                                    <div class="promotion-item">
-                                        <div class="promotion-title">
-                                            <h4>Monday</h4>
-                                        </div>
-                                        <div class="promotion-details">
-                                            <div class="promotion-desc">Open Mic 7.30pm</div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- 2 -->
-                                <div class="col-md-12">
-                                    <div class="promotion-item">
-                                        <div class="promotion-title">
-                                            <h4>Wednesday</h4>
-                                        </div>
-                                        <div class="promotion-details">
-                                            <div class="promotion-desc">Live Music 8.00pm</div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- 3 -->
-                                <div class="col-md-12">
-                                    <div class="promotion-item">
-                                        <div class="promotion-title">
-                                            <h4>Thursday</h4>
-                                        </div>
-                                        <div class="promotion-details">
-                                            <div class="promotion-desc">Piano Sing Along 8.00pm</div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- 4 -->
-                                <div class="col-md-12">
-                                    <div class="promotion-item">
-                                        <div class="promotion-title">
-                                            <h4>Friday</h4>
-                                        </div>
-                                        <div class="promotion-details">
-                                            <div class="promotion-desc">Friday Live Music Late Bar ( last orders 11:45pm )</div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- 5 -->
-                                <div class="col-md-12">
-                                    <div class="promotion-item">
-                                        <div class="promotion-title">
-                                            <h4>Saturday</h4>
-                                        </div>
-                                        <div class="promotion-details">
-                                            <div class="promotion-desc">Late Bar & Tunes ( last orders 11:45pm )</div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- 5 -->
-                                 <div class="bold-separator">
-                                    <span></span>
-                                </div>
-                                <h3>Sundays</h3>
-                                <div class="bold-separator">
-                                    <span></span>
-                                </div>
-                                <div class="col-md-12">
-                                    <div class="promotion-item">
-                                        <div class="promotion-title">
-                                            <h4>One of our busiest days, try one of our roasts in beautiful Hampstead.</h4>
-                                        </div>
-                                        <div class="promotion-details">
-                                            <div class="promotion-desc">Veggie Wellington, Beef, Pork or Chicken served with all the trimmings.</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="bold-separator">
-                                <span></span>
-                            </div>
-                            <h3>Drink Specials</h3>
+                            <h2>Drink Specials</h2>
+                            <h3>Best Deals In The Village</h3>
                             <div class="bold-separator">
                                 <span></span>
                             </div>
                             <div class="row">
                                 <div class="col-md-12">
                                     <div class="promotion-item">
-                                        <div class="promotion-title">
-                                            <h4>Best Deals In The Village</h4>
-                                        </div>
                                         <div class="promotion-details">
                                             <div class="promotion-desc">House doubles</div>
                                             <div class="promotion-dot"></div>
@@ -338,7 +253,6 @@
                                     </div>
                                 </div>
                             </div>
-                            <a class="custom-scroll-link align-link link" href="#sec5">Online Reservation</a>
                         </div>
                     </section>
                     <!--section end-->
@@ -347,53 +261,53 @@
                         <div class="triangle-decor"></div>
                         <div class="container">
                             <div class="section-title">
-                                <h3>Our Team</h3>
-                                <h4>High-class professional service</h4>
+                                <h3>What's Happening</h3>
+                                <h4 class="decor-title">Live Music and Events</h4>
                                 <div class="separator color-separator"></div>
                             </div>
-                            <div class="inner">
-                                <p> Numerous commentators have also referred to the supposed restaurant owner's eccentric habit of touting for custom outside his establishment, dressed in aristocratic fashion and brandishing a sword</p>
+                            <div class="col-md-6">
+                                <div class="menu-item-details">
+                                    <div class="menu-item-desc">Monday</div>
+                                    <div class="menu-item-dot"></div>
+                                    <div class="menu-item-prices">
+                                        <div class="menu-item-price">Open Mic 7.30pm</div>
+                                    </div>
+                                </div>
+                                <div class="menu-item-details">
+                                    <div class="menu-item-desc">Wednesday</div>
+                                    <div class="menu-item-dot"></div>
+                                    <div class="menu-item-prices">
+                                        <div class="menu-item-price">Live Music 8.00pm</div>
+                                    </div>
+                                </div>
+                                <div class="menu-item-details">
+                                    <div class="menu-item-desc">Thursday</div>
+                                    <div class="menu-item-dot"></div>
+                                    <div class="menu-item-prices">
+                                        <div class="menu-item-price">Piano Sing Along 8.00pm</div>
+                                    </div>
+                                </div>
+                                <div class="menu-item-details">
+                                    <div class="menu-item-desc">Friday</div>
+                                    <div class="menu-item-dot"></div>
+                                    <div class="menu-item-prices">
+                                        <div class="menu-item-price">Live Music Late Bar (last orders 11:45pm)</div>
+                                    </div>
+                                </div>
+                                <div class="menu-item-details">
+                                    <div class="menu-item-desc">Saturday</div>
+                                    <div class="menu-item-dot"></div>
+                                    <div class="menu-item-prices">
+                                        <div class="menu-item-price">Late Bar & Tunes (last orders 11:45pm)</div>
+                                    </div>
+                                </div>
                             </div>
-                            <div class="bold-separator">
-                                <span></span>
-                            </div>
-                            <div  class="team-links">
-                                <!-- member 1 link -->
-                                <div class="team-item">
-                                    <a href="team/mem1.html" class="popup-with-move-anim">
-                                    <span class="team-details">More info</span>
-                                    <img src="images/team/thumbnails/1.jpg" alt="" class="respimg">
-                                    <span class="chefname">Andy Moore</span>
-                                    <span class="chefinfo">Master chef in Brooklin</span>
-                                    </a>
-                                </div>
-                                <!-- member 2 link -->
-                                <div class="team-item">
-                                    <a href="team/mem2.html" class="popup-with-move-anim">
-                                    <span class="team-details">More info</span>
-                                    <img src="images/team/thumbnails/1.jpg" alt="" class="respimg">
-                                    <span class="chefname">Jhon Doe</span>
-                                    <span class="chefinfo">Master chef in Florida</span>
-                                    </a>
-                                </div>
-                                <!-- member 3 link -->
-                                <div class="team-item">
-                                    <a href="team/mem3.html" class="popup-with-move-anim">
-                                    <span class="team-details">More info</span>
-                                    <img src="images/team/thumbnails/1.jpg" alt="" class="respimg">
-                                    <span class="chefname">Andy Moore</span>
-                                    <span class="chefinfo">Master chef in Bronks</span>
-                                    </a>
-                                </div>
-                                <!-- member 4 link -->
-                                <div class="team-item">
-                                    <a href="team/mem4.html" class="popup-with-move-anim">
-                                    <span class="team-details">More info</span>
-                                    <img src="images/team/thumbnails/1.jpg" alt="" class="respimg">
-                                    <span class="chefname">Andy Moore</span>
-                                    <span class="chefinfo">Master chef in Maiami</span>
-                                    </a>
-                                </div>
+                            <div class="col-md-6">
+                                <div class="promotion-title">
+                                        <h4 style="float:none; text-align:center;margin-top: 10px;">Sundays</h4>
+                                    </div>
+                                    <p style="float:none; text-align:center;">One of our busiest days,<br/> try one of our roasts in beautiful Hampstead.<br/></p>
+                                    <div class="promotion-desc" style="float:none; text-align:center;line-height:1.6;">Veggie Wellington,<br/>Beef, Pork or Chicken<br/>served with all the trimmings.</div>
                             </div>
                         </div>
                     </section>
