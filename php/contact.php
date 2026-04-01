@@ -14,18 +14,27 @@ $email    = $_POST['email'];
 $phone   = $_POST['phone'];
 $comments = $_POST['comments'];
 
+// NH some funky logic which means that user has to enter either a phone number, or email, but not both
+// but if email field is populated, it must be valid email
+$needEmail = false;
+$needPhone = false;
+if(trim($phone) == '') {
+	$needEmail = true;
+}
+if(trim($email) == '') {
+	$needPhone = true;
+}else{
+	$needEmail = true;
+}
 
 if(trim($name) == '') {
-	echo '<div class="error_message">Attention! You must enter your name.</div>';
+	echo '<div class="error_message">Attention! Please enter your name.</div>';
 	exit();
-} else if(trim($email) == '') {
+} else if($needEmail && (trim($email) == '' || !isEmail($email))) {
 	echo '<div class="error_message">Attention! Please enter a valid email address.</div>';
 	exit();
-} else if(trim($phone) == '') {
+} else if($needPhone && trim($phone) == '') {
 	echo '<div class="error_message">Attention! Please enter a valid phone number.</div>';
-	exit();
-} else if(!isEmail($email)) {
-	echo '<div class="error_message">Attention! You have enter an invalid e-mail address, try again.</div>';
 	exit();
 } else if(trim($comments) == '') {
 	echo '<div class="error_message">Attention! Please enter your message.</div>';
@@ -62,7 +71,6 @@ if(mail($address, $e_subject, $e_body, $headers)) {
 
 } else {
 
-	echo "<h1>Mail failed to send.</h1>";
-    error_log("Mail failed for: $email"); // logs to server
+	echo "<div class='error_message'>Mail failed to send.</div>";
 
 }

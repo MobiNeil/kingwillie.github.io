@@ -748,10 +748,10 @@
                                         <div id="contact-form">
                                             <div id="message2"></div>
                                             <form method="post" action="php/contact.php" name="contactform" id="contactform">
-                                                <input name="name" type="text" class="name"  onClick="this.select()" value="Name" >
-                                                <input name="email" type="text" class="email" onClick="this.select()" value="E-mail" >
-                                                <input name="phone" type="text" class="phone" onClick="this.select()" value="Phone" >
-                                                <textarea name="comments"  class="comments" onClick="this.select()" >Message</textarea>
+                                                <input name="name" type="text" class="name"  onClick="this.select()" placeholder="Name *" >
+                                                <input name="email" type="text" class="email" onClick="this.select()" placeholder="E-mail" >
+                                                <input name="phone" type="text" class="phone" onClick="this.select()" placeholder="Phone" >
+                                                <textarea name="comments"  class="comments" onClick="this.select()" placeholder="Comments *"></textarea>
                                                 <button type="submit"  id="submit">Send </button>
                                             </form>
                                         </div>
