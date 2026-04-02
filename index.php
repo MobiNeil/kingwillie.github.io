@@ -228,27 +228,27 @@
                                         <div class="promotion-details">
                                             <div class="promotion-desc">House doubles</div>
                                             <div class="promotion-dot"></div>
-                                            <span class="promotion-discount">£7.50</span>
+                                            <span class="promotion-desc">£7.50</span>
                                         </div>
                                         <div class="promotion-details">
                                             <div class="promotion-desc">Premium doubles</div>
                                             <div class="promotion-dot"></div>
-                                            <span class="promotion-discount">£9.50</span>
+                                            <span class="promotion-desc">£9.50</span>
                                         </div>
                                         <div class="promotion-details">
                                             <div class="promotion-desc">House wine</div>
                                             <div class="promotion-dot"></div>
-                                            <span class="promotion-discount">£25</span>
+                                            <span class="promotion-desc">£25</span>
                                         </div>
                                         <div class="promotion-details">
                                             <div class="promotion-desc">Prosecco</div>
                                             <div class="promotion-dot"></div>
-                                            <span class="promotion-discount">£30</span>
+                                            <span class="promotion-desc">£30</span>
                                         </div>
                                         <div class="promotion-details">
                                             <div class="promotion-desc">Pints from</div>
                                             <div class="promotion-dot"></div>
-                                            <span class="promotion-discount">£5.60</span>
+                                            <span class="promotion-desc">£5.60</span>
                                         </div>
                                     </div>
                                 </div>
@@ -266,48 +266,38 @@
                                 <div class="separator color-separator"></div>
                             </div>
                             <div class="col-md-6">
-                                <div class="menu-item-details">
-                                    <div class="menu-item-desc">Monday</div>
-                                    <div class="menu-item-dot"></div>
-                                    <div class="menu-item-prices">
-                                        <div class="menu-item-price">Open Mic 7.30pm</div>
-                                    </div>
+                                <div class="section-title">
+                                    <h3 style="line-height:1.8;">Monday</h3>
+                                    <div class="menu-item-desc" style="float:none; text-align:center;">Open Mic 7.30pm</div>
                                 </div>
-                                <div class="menu-item-details">
-                                    <div class="menu-item-desc">Wednesday</div>
-                                    <div class="menu-item-dot"></div>
-                                    <div class="menu-item-prices">
-                                        <div class="menu-item-price">Live Music 8.00pm</div>
-                                    </div>
+                                <div class="section-title">
+                                    <h3 style="line-height:1.8;">Wednesday</h3>
+                                    <div class="menu-item-desc" style="float:none; text-align:center;">Live Music 8.00pm</div>
                                 </div>
-                                <div class="menu-item-details">
-                                    <div class="menu-item-desc">Thursday</div>
-                                    <div class="menu-item-dot"></div>
-                                    <div class="menu-item-prices">
-                                        <div class="menu-item-price">Piano Sing Along 8.00pm</div>
-                                    </div>
+                                <div class="section-title">
+                                    <h3 style="line-height:1.8;">Thursday</h3>
+                                    <div class="menu-item-desc" style="float:none; text-align:center;">Piano Sing Along 8.00pm</div>
                                 </div>
-                                <div class="menu-item-details">
-                                    <div class="menu-item-desc">Friday</div>
-                                    <div class="menu-item-dot"></div>
-                                    <div class="menu-item-prices">
-                                        <div class="menu-item-price">Live Music Late Bar (last orders 11:45pm)</div>
-                                    </div>
+                                <div class="section-title">
+                                    <h3 style="line-height:1.8;">Friday</h3>
+                                    <div class="menu-item-desc" style="float:none; text-align:center;">Live Music, Late Bar (last orders 11:45pm)</div>
                                 </div>
-                                <div class="menu-item-details">
-                                    <div class="menu-item-desc">Saturday</div>
-                                    <div class="menu-item-dot"></div>
-                                    <div class="menu-item-prices">
-                                        <div class="menu-item-price">Late Bar & Tunes (last orders 11:45pm)</div>
-                                    </div>
+                                <div class="section-title">
+                                    <h3 style="line-height:1.8;">Saturday</h3>
+                                    <div class="menu-item-desc" style="float:none; text-align:center;">Late Bar & Tunes (last orders 11:45pm)</div>
                                 </div>
                             </div>
                             <div class="col-md-6">
-                                <div class="promotion-title">
-                                        <h4 style="float:none; text-align:center;margin-top: 10px;">Sundays</h4>
+                                <div class="section-title">
+                                    <h3 style="line-height:1.8;">Sundays</h3>
+                                    <div class="menu-item-desc" style="float:none; text-align:center;">Sunday Roasts & Bloody Marys</div>
+                                    <div class="bold-separator">
+                                        <span></span>
                                     </div>
-                                    <p style="float:none; text-align:center;">One of our busiest days,<br/> try one of our roasts in beautiful Hampstead.<br/></p>
-                                    <div class="promotion-desc" style="float:none; text-align:center;line-height:1.6;">Veggie Wellington,<br/>Beef, Pork or Chicken<br/>served with all the trimmings.</div>
+                                <p style="float:none; text-align:center;">One of our busiest days,<br/> try one of our roasts in beautiful Hampstead.<br/></p>
+                                </div>
+                                    <div class="promotion-desc" style="float:none; text-align:center;line-height:1.6;">Veggie Wellington,<br/>Beef, Pork, or Chicken,<br/>served with all the trimmings.</div>
+                                </div>
                             </div>
                         </div>
                     </section>
