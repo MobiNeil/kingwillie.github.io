@@ -297,10 +297,13 @@
                                     <div class="bold-separator">
                                         <span></span>
                                     </div>
+                                    <!--
                                 <p style="float:none; text-align:center;">One of our busiest days,<br/> try one of our roasts in beautiful Hampstead.<br/></p>
                                 </div>
                                     <div class="promotion-desc" style="float:none; text-align:center;line-height:1.6;">Veggie Wellington,<br/>Beef, Pork, or Chicken,<br/>served with all the trimmings.</div>
                                 </div>
+-->
+                                <img src="images/quiz_ad.jpg" width="420"/>
                             </div>
                         </div>
                     </section>
