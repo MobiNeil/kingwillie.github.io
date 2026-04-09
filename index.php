@@ -453,6 +453,20 @@
                         </div>
                     </section>
                     <!--section end-->
+                    <!-- NEW INSTAGRAM SECTION -->
+                    <section class="instagram-section">
+                        <div class="container">
+                            <h3>Follow us on Instagram</h3>
+                            <div class="instagram-wrapper">
+                            <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/38008d63072b589a837f8f3e7c821ef4.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+                            </div>
+                            <p class="insta-link">
+                                <a href="https://www.instagram.com/thekingwillie_/" target="_blank">
+                                    View more on Instagram
+                                </a>
+                            </p>
+                        </div>
+                    </section>
                     <!--=============== contacts ===============-->
                     <section class="parallax-section" id="sec6">
                         <div class="bg bg-parallax" style="background-image:url(images/bg/1.jpg)" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);"></div>
