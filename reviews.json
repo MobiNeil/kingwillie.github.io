@@ -1,20 +1,32 @@
 [
   {
-    "name": "John D.",
+    "name": "Catriona Mackenzie",
     "rating": 5,
-    "text": "Fantastic atmosphere and one of the best Sunday roasts I’ve had in years.",
-    "date": "2024-11-12"
+    "text": "I had a wonderful stay at the King William IV Boutique Hotel! The decor is stunning, creating a charming and inviting atmosphere. The staff were exceptionally friendly and attentive, making me feel right at home. I highly recommend dining at the hotel; the food was delicious and a highlight of my visit. Overall, a perfect experience!",
+    "date": "6 months ago"
   },
   {
-    "name": "Sarah M.",
+    "name": "Niall Fallon",
     "rating": 5,
-    "text": "Lovely staff, great drinks selection, and a really cosy vibe.",
-    "date": "2025-01-08"
+    "text": "A nice surprise on a small trip to hamstead. This pub isn't lauded like another couple in the area, but thought the music, decor and vibe were spot on.",
+    "date": "2 months ago"
   },
   {
-    "name": "Chris P.",
+    "name": "Serena Chin",
     "rating": 5,
-    "text": "Stopped by on a whim and ended up staying all evening. Brilliant place.",
-    "date": "2025-02-14"
+    "text": "Great neighborhood fun pub in the heart of Hempstead village, northwest London. Reasonable priced varied lunch menu plus crepe options just outside the street. Rooms not rated because I didn’t stay there.",
+    "date": "4 months ago"
+  },
+  {
+    "name": "Daniel Boden",
+    "rating": 5,
+    "text": "Pet- and animal-friendly pub (see pictures) near the Hampstead tube station. Past few times I’ve been, there’s been live music, which is good. Beer garden out back is nice. Prices not too bad considering the area. Agreeable staff. Will be back and can recommend.",
+    "date": "8 months ago"
+  },
+  {
+    "name": "Al Roulexe",
+    "rating": 5,
+    "text": "I always enjoy this characterful, charming pub, and on my latest occasion was delighted to find the presence of two new pub cats, black, and apparently siblings, about 9 months old! The pub is intriguing as has portraits everywhere, interesting decor, and certainly its own atmosphere. I always like chatting to the staff, and on this occasion my visit cheered me up during a bad time. They have some cask ales, nice wines, and an appetising menu at fair prices. I look forward to my next vist to this lovely old boozer.",
+    "date": "8 months ago"
   }
 ]
