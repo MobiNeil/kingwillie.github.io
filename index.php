@@ -456,15 +456,19 @@
                     <!-- NEW INSTAGRAM SECTION -->
                     <section class="instagram-section">
                         <div class="container">
-                            <h3>Follow us on Instagram</h3>
-                            <div class="instagram-wrapper">
-                            <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/38008d63072b589a837f8f3e7c821ef4.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <h3>Follow us on Instagram</h3>
+                                    <div class="instagram-wrapper">
+                                    <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/9708b7478a8f5ca884369888a363fe4d.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+                                    </div>
+                                    <p class="insta-link">
+                                        <a href="https://www.instagram.com/thekingwillie_/" target="_blank">
+                                            View more on Instagram
+                                        </a>
+                                    </p>
+                                </div>
                             </div>
-                            <p class="insta-link">
-                                <a href="https://www.instagram.com/thekingwillie_/" target="_blank">
-                                    View more on Instagram
-                                </a>
-                            </p>
                         </div>
                     </section>
                     <!--=============== contacts ===============-->

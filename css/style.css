@@ -1536,10 +1536,14 @@ article {
     font-style: italic;
 	font-size: 28px;
     font-family: 'Playfair Display', serif;
-	padding: 0 0 80px 0;
+	padding: 0 0 80px 0 ;
 }
 .instagram-wrapper {
-    width: 100%;
+    padding: 0 15px 0 0;
+	box-sizing: border-box;
+}
+.instagram-wrapper iframe {
+    max-width: 100%;
 }
 .instagram-feed {
     width: 100%;
