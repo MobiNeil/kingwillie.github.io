@@ -328,7 +328,7 @@
                             <div class="bold-separator">
                                 <span></span>
                             </div>
-                            <!-- choice here, either use deserts.html or others.html -->
+                            <!-- choice here, either use desserts.html or others.html -->
                             <?php include 'pub_menu/others.html'; ?>
                             <div class="bold-separator">
                                 <span></span>
@@ -548,45 +548,15 @@
                                             <a class="prev-slide transition"><i class="fa fa-long-arrow-left"></i></a>
                                             <a class="next-slide transition"><i class="fa fa-long-arrow-right"></i></a>
                                         </div>
-                                        <div class="testimonials-slider owl-carousel">
-                                            <div class="item">
-                                                <ul>
-                                                    <li><i class="fa fa-star"></i></li>
-                                                    <li><i class="fa fa-star"></i></li>
-                                                    <li><i class="fa fa-star"></i></li>
-                                                    <li><i class="fa fa-star"></i></li>
-                                                    <li><i class="fa fa-star"></i></li>
-                                                </ul>
-                                                <p>" Numerous commentators have also referred to the supposed restaurant owner's eccentric habit of touting for custom outside his establishment, dressed in aristocratic fashion and brandishing a sword "</p>
-                                                <h4><a href="https://twitter.com/katokli3mmm" target="_blank">Jone Doe</a></h4>
-                                            </div>
-                                            <div class="item">
-                                                <ul>
-                                                    <li><i class="fa fa-star"></i></li>
-                                                    <li><i class="fa fa-star"></i></li>
-                                                    <li><i class="fa fa-star"></i></li>
-                                                    <li><i class="fa fa-star"></i></li>
-                                                    <li> <i class="fa fa-star-half"></i></li>
-                                                </ul>
-                                                <p>" Numerous commentators have also referred to the supposed restaurant owner's eccentric habit of touting for custom outside his establishment, dressed in aristocratic fashion and brandishing a sword "</p>
-                                                <h4><a href="https://twitter.com/katokli3mmm" target="_blank">Jone Doe</a></h4>
-                                            </div>
-                                            <div class="item">
-                                                <ul>
-                                                    <li><i class="fa fa-star"></i></li>
-                                                    <li><i class="fa fa-star"></i></li>
-                                                    <li><i class="fa fa-star"></i></li>
-                                                    <li><i class="fa fa-star"></i></li>
-                                                    <li><i class="fa fa-star"></i></li>
-                                                </ul>
-                                                <p>" Numerous commentators have also referred to the supposed restaurant owner's eccentric habit of touting for custom outside his establishment, dressed in aristocratic fashion and brandishing a sword "</p>
-                                                <h4><a href="https://twitter.com/katokli3mmm" target="_blank">Jone Doe</a></h4>
-                                            </div>
-                                        </div>
+                                        <div class="testimonials-slider owl-carousel" id="testimonials-slider"></div>
                                     </div>
                                 </div>
-
                             </div>
+                            <p class="reviews-link">
+                                <a href="https://maps.app.goo.gl/H5wRJcvgrt4ACtNVA" target="_blank">
+                                    <img src="images/google_icon.png" alt="Google" class="google-icon"> Read more reviews on Google
+                                </a>
+                            </p>
                             <div class="section-icon"><i class="fa fa-quote-left"></i></div>
                         </div>
                     </section>

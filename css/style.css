@@ -1508,6 +1508,24 @@ article {
 .product-meta span a {
 	padding-left:6px;
 }
+
+/* NH Reviews Link */
+.reviews-link {
+  text-align: center;
+  margin-top: 20px;
+}
+.reviews-link a {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: #fff; /* adjust if needed */
+  font-weight: bold;
+  text-decoration: none;
+}
+.google-icon {
+  width: 18px;
+  height: 18px;
+}
  
 /* --------Checkout table------------------------------ */
 .checkout-table {

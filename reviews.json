@@ -1,0 +1,20 @@
+[
+  {
+    "name": "John D.",
+    "rating": 5,
+    "text": "Fantastic atmosphere and one of the best Sunday roasts I’ve had in years.",
+    "date": "2024-11-12"
+  },
+  {
+    "name": "Sarah M.",
+    "rating": 5,
+    "text": "Lovely staff, great drinks selection, and a really cosy vibe.",
+    "date": "2025-01-08"
+  },
+  {
+    "name": "Chris P.",
+    "rating": 5,
+    "text": "Stopped by on a whim and ended up staying all evening. Brilliant place.",
+    "date": "2025-02-14"
+  }
+]

@@ -487,3 +487,48 @@ $(document).ready(function() {
     initLambert();
     initparallax();
 });
+
+async function loadTestimonials() {
+  try {
+    const response = await fetch('reviews.json');
+    const reviews = await response.json();
+
+    const slider = document.getElementById('testimonials-slider');
+
+    const html = reviews.map(review => `
+      <div class="item">
+        <ul>
+          ${'<li><i class="fa fa-star"></i></li>'.repeat(review.rating)}
+        </ul>
+        <p>" ${review.text} "</p>
+        <h4><a href="#" target="_blank">${review.name}</a></h4>
+      </div>
+    `).join('');
+
+    slider.innerHTML = html;
+
+    // 🧨 Kill any existing carousel instance (important)
+    $('.testimonials-slider').trigger('destroy.owl.carousel');
+
+    // 🧼 Remove Owl's leftover wrapper junk (VERY important)
+    $('.testimonials-slider').removeClass('owl-loaded owl-hidden');
+    $('.testimonials-slider').find('.owl-stage-outer').children().unwrap();
+    $('.testimonials-slider').removeData();
+
+    // 🚀 Re-initialize cleanly
+    $('.testimonials-slider').owlCarousel({
+      items: 1,
+      loop: true,
+      autoplay: true,
+      nav: false,
+      dots: false
+    });
+
+  } catch (err) {
+    console.error('Error loading testimonials:', err);
+  }
+}
+
+$(document).ready(function() {
+  loadTestimonials();
+});
