@@ -458,15 +458,14 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-12">
-                                    <h3>Follow us on Instagram</h3>
-                                    <div class="instagram-wrapper">
-                                    <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/9708b7478a8f5ca884369888a363fe4d.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
-                                    </div>
                                     <p class="insta-link">
                                         <a href="https://www.instagram.com/thekingwillie_/" target="_blank">
-                                            View more on Instagram
+                                            <img src="images/instagram_icon.png" alt="Google" class="instagram-icon"> Follow us on Instagram
                                         </a>
                                     </p>
+                                    <div class="instagram-wrapper">
+                                    <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/9708b7478a8f5ca884369888a363fe4d.html?v=4" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+                                    </div>
                                 </div>
                             </div>
                         </div>
