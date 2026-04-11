@@ -28,9 +28,9 @@
                         <!--navigation social links-->
                         <div class="nav-social">
                             <ul>
-                                <li><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                                <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="https://www.facebook.com/kingwilliamIV/?locale=en_GB" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="https://www.instagram.com/thekingwillie_/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                                <li><a href="https://www.facebook.com/kingwilliamIV/?locale=en_GB" target="_blank"><i class="fa fa-twitter"></i></a></li>
                             </ul>
                         </div>
                         <!--logo-->             
@@ -211,47 +211,13 @@
                         </div>
                     </section>
                     <!--section end-->
-                    <!--=============== Weekly Deals ===============-->
-                    <section class="parallax-section">
+                    <!--=============== parallax section  ===============-->
+                    <section class="parallax-section" id="sec5">
                         <div class="bg bg-parallax" style="background-image:url(images/bg/1.jpg)" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);"></div>
                         <div class="overlay"></div>
                         <div class="container">
-                            <h2>Drink Specials</h2>
-                            <h3>Best Deals In The Village</h3>
-                            <div class="bold-separator">
-                                <span></span>
-                            </div>
-                            <div class="row">
-                                <div class="col-md-12">
-                                    <div class="promotion-item">
-                                        <div class="promotion-details">
-                                            <div class="promotion-desc">House doubles</div>
-                                            <div class="promotion-dot"></div>
-                                            <span class="promotion-desc">£7.50</span>
-                                        </div>
-                                        <div class="promotion-details">
-                                            <div class="promotion-desc">Premium doubles</div>
-                                            <div class="promotion-dot"></div>
-                                            <span class="promotion-desc">£9.50</span>
-                                        </div>
-                                        <div class="promotion-details">
-                                            <div class="promotion-desc">House wine</div>
-                                            <div class="promotion-dot"></div>
-                                            <span class="promotion-desc">£25</span>
-                                        </div>
-                                        <div class="promotion-details">
-                                            <div class="promotion-desc">Prosecco</div>
-                                            <div class="promotion-dot"></div>
-                                            <span class="promotion-desc">£30</span>
-                                        </div>
-                                        <div class="promotion-details">
-                                            <div class="promotion-desc">Pints from</div>
-                                            <div class="promotion-dot"></div>
-                                            <span class="promotion-desc">£5.60</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            <h2>What's Happening</h2>
+                            <h3>Live Music and Events</h3>
                         </div>
                     </section>
                     <!--section end-->
@@ -259,11 +225,6 @@
                     <section>
                         <div class="triangle-decor"></div>
                         <div class="container">
-                            <div class="section-title">
-                                <h3>What's Happening</h3>
-                                <h4 class="decor-title">Live Music and Events</h4>
-                                <div class="separator color-separator"></div>
-                            </div>
                             <div class="col-md-6">
                                 <div class="section-title">
                                     <h3 style="line-height:1.8;">Monday</h3>
@@ -289,21 +250,27 @@
                                     <h3 style="line-height:1.8;">Saturday</h3>
                                     <div class="menu-item-desc" style="float:none; text-align:center;">Late Bar & Tunes</div>
                                 </div>
+                                <div class="section-title">
+                                    <h3 style="line-height:1.8;">Sunday</h3>
+                                    <div class="menu-item-desc" style="float:none; text-align:center;">Sunday Roasts & Bloody Marys</div>
+                                </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="section-title">
+                                    <!--
                                     <h3 style="line-height:1.8;">Sundays</h3>
                                     <div class="menu-item-desc" style="float:none; text-align:center;">Sunday Roasts & Bloody Marys</div>
                                     <div class="bold-separator">
                                         <span></span>
                                     </div>
+                                    -->
                                     <!--
                                 <p style="float:none; text-align:center;">One of our busiest days,<br/> try one of our roasts in beautiful Hampstead.<br/></p>
                                 </div>
                                     <div class="promotion-desc" style="float:none; text-align:center;line-height:1.6;">Veggie Wellington,<br/>Beef, Pork, or Chicken,<br/>served with all the trimmings.</div>
                                 </div>
 -->
-                                <img src="images/quiz_ad.jpg" width="420"/>
+                                <img src="images/quiz_ad.jpg" class="quiz-image"/>
                             </div>
                         </div>
                     </section>
