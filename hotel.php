@@ -27,11 +27,7 @@
                         <!--navigation social links-->
                         <div class="nav-social">
                             <ul>
-                                <li><a href="#" target="_blank" ><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#" target="_blank" ><i class="fa fa-instagram"></i></a></li>
-                                <li><a href="#" target="_blank" ><i class="fa fa-pinterest"></i></a></li>
-                                <li><a href="#" target="_blank" ><i class="fa fa-tumblr"></i></a></li>
+                                <?php include 'includes/socials.html'; ?>
                             </ul>
                         </div>
                         <!--logo-->             
@@ -50,7 +46,7 @@
                                     <li><a href="../index.php#sec3">Menu</a></li>
                                     <li><a href="../index.php#sec4">Gallery</a></li>
                                     <li><a href="../index.php#sec6">Contact</a></li>
-                                    <li><a href="hotel.html" class="act-link">Hotel</a></li>
+                                    <li><a href="hotel.php" class="act-link">Hotel</a></li>
                                 </ul>
                             </nav>
                         </div>
@@ -256,61 +252,7 @@
                     </section>
                 </div>
                 <!--=============== footer ===============-->
-                <footer>
-                    <div class="footer-inner">
-                        <div class="container">
-                            <div class="row">
-                                <!--tiwtter-->
-                                <div class="col-md-4">
-                                    <div class="footer-info">
-                                        <h4>About Us</h4>
-                                        <p> Numerous commentators have also referred to the supposed restaurant owner's eccentric habit of touting for custom outside his establishment, dressed in aristocratic fashion and brandishing a sword</p>
-                                    </div>
-                                </div>
-                                <!--footer social links-->
-                                <div class="col-md-4">
-                                    <div class="footer-social">
-                                        <h3>Find us</h3>
-                                        <ul>
-                                            <li><a href="#" target="_blank" ><i class="fa fa-facebook"></i></a></li>
-                                            <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                            <li><a href="#" target="_blank" ><i class="fa fa-instagram"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <!--subscribe form-->
-                                <div class="col-md-4">
-                                    <div class="footer-info">
-                                        <h4>Newsletter</h4>
-                                        <div class="subcribe-form">
-                                            <form id="subscribe">
-                                                <input class="enteremail" name="email" id="subscribe-email" placeholder="Your email address.." spellcheck="false" type="text">
-                                                <button type="submit" id="subscribe-button" class="subscribe-button"><i class="fa fa-envelope"></i></button>
-                                                <label for="subscribe-email" class="subscribe-message"></label>
-                                            </form>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="bold-separator">
-                                <span></span>
-                            </div>
-                            <!--footer contacts links -->
-                            <ul class="footer-contacts">
-                                <li><a href="#">+7(111)123456789</a></li>
-                                <li><a href="#">27th Brooklyn New York, NY 10065</a></li>
-                                <li><a href="#">yourmail@domain.com</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!--to top / privacy policy-->
-                    <div class="to-top-holder">
-                        <div class="container">
-                            <p> <span> &#169; Lambert 2015 . </span> All rights reserved.</p>
-                            <div class="to-top"><span>Back To Top </span><i class="fa fa-angle-double-up"></i></div>
-                        </div>
-                    </div>
-                </footer>
+                <?php include 'includes/footer.php'; ?>
                 <!--footer end --> 
             </div>
             <!-- wrapper end -->

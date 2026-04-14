@@ -28,9 +28,7 @@
                         <!--navigation social links-->
                         <div class="nav-social">
                             <ul>
-                                <li><a href="https://www.facebook.com/kingwilliamIV/?locale=en_GB" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="https://www.instagram.com/thekingwillie_/" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                                <li><a href="https://x.com/TheKingWillie_" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                               <?php include 'includes/socials.html'; ?>
                             </ul>
                         </div>
                         <!--logo-->             
@@ -49,7 +47,7 @@
                                     <li><a href="#sec3">Menu</a></li>
                                     <li><a href="#sec4">Gallery</a></li>
                                     <li><a href="#sec6">Contact</a></li>
-                                    <li><a href="hotel.html" class="external">Hotel</a></li>
+                                    <li><a href="hotel.php" class="external">Hotel</a></li>
                                 </ul>
                             </nav>
                         </div>
@@ -515,41 +513,7 @@
                 </div>
                 <!--content end-->
                 <!--=============== footer ===============-->
-                <footer>
-                    <div class="footer-inner">
-                        <div class="container">
-                            <div class="row">
-                                <!--footer social links-->
-                                <div class="col-md-12">
-                                    <div class="footer-social">
-                                        <h3>Find us</h3>
-                                        <ul>
-                                            <li><a href="https://www.facebook.com/kingwilliamIV/?locale=en_GB" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                            <li><a href="https://www.instagram.com/thekingwillie_/" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                                            <li><a href="https://x.com/TheKingWillie_" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="bold-separator">
-                                <span></span>
-                            </div>
-                            <!--footer contacts links -->
-                            <ul class="footer-contacts">
-                                <li><p>0207 435 5153</p></li>
-                                <li><p>77 Hampstead High St, London NW3 1RE</p></li>
-                                <li><p>pub@kingwilliamhampstead.com</p></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!--to top / privacy policy-->
-                    <div class="to-top-holder">
-                        <div class="container">
-                            <p> <span> &#169; King William IV Pub 2026 . </span> All rights reserved.</p>
-                            <div class="to-top"><span>Back To Top </span><i class="fa fa-angle-double-up"></i></div>
-                        </div>
-                    </div>
-                </footer>
+                <?php include 'includes/footer.php'; ?>
                 <!--footer end --> 
             </div>
             <!-- wrapper end -->
