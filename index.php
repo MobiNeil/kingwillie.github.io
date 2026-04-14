@@ -30,7 +30,7 @@
                             <ul>
                                 <li><a href="https://www.facebook.com/kingwilliamIV/?locale=en_GB" target="_blank"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="https://www.instagram.com/thekingwillie_/" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                                <li><a href="https://www.facebook.com/kingwilliamIV/?locale=en_GB" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="https://x.com/TheKingWillie_" target="_blank"><i class="fa fa-twitter"></i></a></li>
                             </ul>
                         </div>
                         <!--logo-->             
@@ -48,7 +48,6 @@
                                     <li><a href="#sec2">About</a></li>
                                     <li><a href="#sec3">Menu</a></li>
                                     <li><a href="#sec4">Gallery</a></li>
-                                    <!--<li><a href="#sec5">Reservation</a></li>-->
                                     <li><a href="#sec6">Contact</a></li>
                                     <li><a href="hotel.html" class="external">Hotel</a></li>
                                 </ul>
@@ -450,51 +449,19 @@
                         <div class="triangle-decor"></div>
                         <div class="container">
                             <div class="row">
-                                <div class="col-md-6">
-                                    <div class="contact-details">
-                                        <h3>Contact info</h3>
-                                        <p> Numerous commentators have also referred to the supposed restaurant owner's eccentric habit of touting for custom outside his establishment, dressed in aristocratic fashion and brandishing a sword</p>
-                                        <p> Numerous commentators have also referred to the supposed restaurant owner's eccentric habit of touting for custom outside his establishment, dressed in aristocratic fashion and brandishing a sword</p>
-                                    </div>
-                                </div>
-                                <div class="col-md-3">
-                                    <div class="contact-details">
-                                        <h4>Lambert  - New York City</h4>
-                                        <ul>
-                                            <li><a href="#">27th Brooklyn New York, NY 10065</a></li>
-                                            <li><a href="#">+7(111)123456789</a></li>
-                                            <li><a href="#">yourmail@domain.com</a></li>
-                                        </ul>
-                                    </div>
-                                    <div class="contact-details">
-                                        <h4>Lambert - Washington</h4>
-                                        <ul>
-                                            <li><a href="#">27th Brooklyn New York, NY 10065</a></li>
-                                            <li><a href="#">+7(111)123456789</a></li>
-                                            <li><a href="#">yourmail@domain.com</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="col-md-3">
-                                    <div class="contact-details">
-                                        <h4>Lambert - Florida</h4>
-                                        <ul>
-                                            <li><a href="#">27th Brooklyn New York, NY 10065</a></li>
-                                            <li><a href="#">+7(111)123456789</a></li>
-                                            <li><a href="#">yourmail@domain.com</a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="bold-separator">
-                                <span></span>
-                            </div>
-                            <div class="row">
                                 <div class="col-md-12">
                                     <div class="section-title">
                                         <h3>Our location</h3>
                                     </div>
                                 </div>
+                                <div class="contact-details">
+                                        <h4 style="float:none; text-align:center;">King William IV Pub</h4>
+                                        <ul>
+                                            <li><p style="float:none; text-align:center;">77 Hampstead High St, London NW3 1RE</p></li>
+                                            <li><p style="float:none; text-align:center;">0207 435 5153</p></li>
+                                            <li><p style="float:none; text-align:center;">pub@kingwilliamhampstead.com</p></li>
+                                        </ul>
+                                    </div>
                             </div>
                         </div>
                     </section>
@@ -552,37 +519,15 @@
                     <div class="footer-inner">
                         <div class="container">
                             <div class="row">
-                                <!--tiwtter-->
-                                <div class="col-md-4">
-                                    <div class="footer-info">
-                                        <h4>About Us</h4>
-                                        <p> Numerous commentators have also referred to the supposed restaurant owner's eccentric habit of touting for custom outside his establishment, dressed in aristocratic fashion and brandishing a sword</p>
-                                    </div>
-                                </div>
                                 <!--footer social links-->
-                                <div class="col-md-4">
+                                <div class="col-md-12">
                                     <div class="footer-social">
                                         <h3>Find us</h3>
                                         <ul>
-                                            <li><a href="#" target="_blank" ><i class="fa fa-facebook"></i></a></li>
-                                            <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                            <li><a href="#" target="_blank" ><i class="fa fa-instagram"></i></a></li>
-                                            <li><a href="#" target="_blank" ><i class="fa fa-pinterest"></i></a></li>
-                                            <li><a href="#" target="_blank" ><i class="fa fa-tumblr"></i></a></li>
+                                            <li><a href="https://www.facebook.com/kingwilliamIV/?locale=en_GB" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                            <li><a href="https://www.instagram.com/thekingwillie_/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                                            <li><a href="https://x.com/TheKingWillie_" target="_blank"><i class="fa fa-twitter"></i></a></li>
                                         </ul>
-                                    </div>
-                                </div>
-                                <!--subscribe form-->
-                                <div class="col-md-4">
-                                    <div class="footer-info">
-                                        <h4>Newsletter</h4>
-                                        <div class="subcribe-form">
-                                            <form id="subscribe">
-                                                <input class="enteremail" name="email" id="subscribe-email" placeholder="Your email address.." spellcheck="false" type="text">
-                                                <button type="submit" id="subscribe-button" class="subscribe-button"><i class="fa fa-envelope"></i></button>
-                                                <label for="subscribe-email" class="subscribe-message"></label>
-                                            </form>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -591,16 +536,16 @@
                             </div>
                             <!--footer contacts links -->
                             <ul class="footer-contacts">
-                                <li><a href="#">+7(111)123456789</a></li>
-                                <li><a href="#">27th Brooklyn New York, NY 10065</a></li>
-                                <li><a href="#">yourmail@domain.com</a></li>
+                                <li><p>0207 435 5153</p></li>
+                                <li><p>77 Hampstead High St, London NW3 1RE</p></li>
+                                <li><p>pub@kingwilliamhampstead.com</p></li>
                             </ul>
                         </div>
                     </div>
                     <!--to top / privacy policy-->
                     <div class="to-top-holder">
                         <div class="container">
-                            <p> <span> &#169; Lambert 2015 . </span> All rights reserved.</p>
+                            <p> <span> &#169; King William IV Pub 2026 . </span> All rights reserved.</p>
                             <div class="to-top"><span>Back To Top </span><i class="fa fa-angle-double-up"></i></div>
                         </div>
                     </div>
