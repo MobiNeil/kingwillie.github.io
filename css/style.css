@@ -2829,3 +2829,13 @@ nav li:hover > ul {
 	background-position:center;
 }
 }
+.mobile-reverse {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+@media (min-width: 768px) {
+    .mobile-reverse {
+        flex-direction: row;
+    }
+}

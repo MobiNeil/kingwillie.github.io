@@ -30,13 +30,15 @@
                                 <?php include 'includes/socials.html'; ?>
                             </ul>
                         </div>
-                        <!--logo-->             
+                        <!--logo-->         
+                        <!--    
                         <div class="logo-holder">
                             <a href="index.php">
                             <img src="images/logo.png" class="respimg logo-vis" alt="">
                             <img src="images/logo2.png" class="respimg logo-notvis" alt="">
                             </a>
                         </div>
+                        -->
                         <!--Navigation -->
                         <div class="nav-holder">
                             <nav>
@@ -58,7 +60,7 @@
             <div id="wrapper">
                 <div class="content">
                     <section class="parallax-section header-section">
-                        <div class="bg bg-parallax" style="background-image:url(images/bg/1.jpg)" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);"></div>
+                        <div class="bg bg-parallax" style="background-image:url(images/bg/bg_hotel_1.jpg)" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);"></div>
                         <div class="overlay"></div>
                         <div class="container">
                             <h2>Our Hotel</h2>
@@ -87,7 +89,7 @@
                         </div>
                     </section>
                     <section class="parallax-section" id="sec4">
-                        <div class="bg bg-parallax" style="background-image:url(images/bg/1.jpg)" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);"></div>
+                        <div class="bg bg-parallax" style="background-image:url(images/bg/bg_hotel_2.jpg)" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);"></div>
                         <div class="overlay"></div>
                         <div class="container">
                             <h2>Gallery</h2>
@@ -138,10 +140,10 @@
                                         <div class="gallery-item menu">
                                             <div class="grid-item-holder">
                                                 <div class="box-item">
-                                                    <a href="images/gallery/1.jpg" title="Image information">
+                                                    <a href="images/hotel/adelaide_room.jpg">
                                                     <span class="overlay"></span>
                                                     <i class="fa fa-search"></i>
-                                                    <img  src="images/gallery/1.jpg" alt="">
+                                                    <img  src="images/hotel/adelaide_room.jpg" alt="">
                                                     </a>
                                                 </div>
                                             </div>
@@ -150,10 +152,10 @@
                                         <div class="gallery-item rest">
                                             <div class="grid-item-holder">
                                                 <div class="box-item">
-                                                    <a href="images/gallery/1.jpg">
+                                                    <a href="images/hotel/catherine_room.jpg">
                                                     <span class="overlay"></span>
                                                     <i class="fa fa-search"></i>
-                                                    <img  src="images/gallery/1.jpg"   alt="">
+                                                    <img  src="images/hotel/catherine_room.jpg"   alt="">
                                                     </a>
                                                 </div>
                                             </div>
@@ -162,34 +164,10 @@
                                         <div class="gallery-item   menu">
                                             <div class="grid-item-holder">
                                                 <div class="box-item">
-                                                    <a href="images/gallery/1.jpg">
+                                                    <a href="images/hotel/elizabeth_room.jpg">
                                                     <span class="overlay"></span>
                                                     <i class="fa fa-search"></i>
-                                                    <img  src="images/gallery/1.jpg"   alt="">
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- 4 -->
-                                        <div class="gallery-item gallery-item-second  menu">
-                                            <div class="grid-item-holder">
-                                                <div class="box-item">
-                                                    <a href="images/gallery/1.jpg">
-                                                    <span class="overlay"></span>
-                                                    <i class="fa fa-search"></i>
-                                                    <img  src="images/gallery/1.jpg"   alt="">
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- 5 -->
-                                        <div class="gallery-item  ovid">
-                                            <div class="grid-item-holder">
-                                                <div class="box-item">
-                                                    <a href="images/gallery/1.jpg">
-                                                    <span class="overlay"></span>
-                                                    <i class="fa fa-search"></i>
-                                                    <img  src="images/gallery/1.jpg"   alt="">
+                                                    <img  src="images/hotel/elizabeth_room.jpg"   alt="">
                                                     </a>
                                                 </div>
                                             </div>
@@ -202,8 +180,7 @@
                             <div class="bold-separator">
                                 <span></span>
                             </div>
-
-                            <div class="row">
+                            <div class="row mobile-reverse">
                                 <div class="col-md-6">
                                     <div class="item">
                                         <iframe width="100%"
@@ -222,7 +199,7 @@
                     </section>
                     <!--section end-->
                     <section class="parallax-section" id="sec6">
-                        <div class="bg bg-parallax" style="background-image:url(images/bg/1.jpg)" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);"></div>
+                        <div class="bg bg-parallax" style="background-image:url(images/bg/bg_hotel_3.jpg)" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);"></div>
                         <div class="overlay"></div>
                         <div class="container">
                             <h2>Contact Us</h2>
