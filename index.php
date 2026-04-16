@@ -436,7 +436,7 @@
                     </section>
                     <!--=============== contacts ===============-->
                     <section class="parallax-section" id="sec6">
-                        <div class="bg bg-parallax" style="background-image:url(images/bg/1.jpg)" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);"></div>
+                        <div class="bg bg-parallax" style="background-image:url(images/bg/bg_hotel_3.jpg)" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);"></div>
                         <div class="overlay"></div>
                         <div class="container">
                             <h2>Our contacts</h2>
