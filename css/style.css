@@ -1205,13 +1205,13 @@ article {
 	position:relative;
 	z-index:1;
 }
-.four-coulms .gallery-item , .four-coulms .grid-sizer{
+.four-columns .gallery-item , .four-columns .grid-sizer{
 	width:25%;
 }
-.three-coulms .gallery-item , .three-coulms .grid-sizer{
+.three-columns .gallery-item , .three-columns .grid-sizer{
 	width:33.33333%;
 }
-.three-coulms .gallery-item-second {
+.three-columns .gallery-item-second {
 	width:66.66666%;
 }
 .box-item .overlay {
@@ -1241,6 +1241,16 @@ article {
 }
 .box-item i , .box-item .overlay {
     transition: all 400ms linear;
+}
+.box-item {
+    border-radius: 14px;
+    overflow: hidden;
+}
+.box-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
 }
 /*------ Shop ------------------------------------------------*/
 .products {
@@ -2762,9 +2772,9 @@ nav li a.act-link:before , nav li a.act-link:after {
 .page-title h2 {
 	font-size:30px;
 }
-.gallery-item {
+/* .gallery-item {
 	width:50% !important;
-}
+} */
 header.sticky nav a ,  header.flat-header nav a{
 	color:#fff;
 }
@@ -2811,7 +2821,7 @@ nav li:hover > ul {
 } 
 }
 @media only screen and  (max-width: 756px) {
-.team-item  , .three-coulms .gallery-item , .three-coulms .grid-sizer , .three-coulms .gallery-item-second , .products li.product-cat-mains{
+.team-item  , .three-columns .gallery-item , .three-columns .grid-sizer , .three-columns .gallery-item-second , .products li.product-cat-mains{
 	width:50% !important;
 }
 .slides-pagination {
@@ -2823,7 +2833,7 @@ nav li:hover > ul {
 }
 }
 @media only screen and  (max-width: 540px) {
-.team-item  , .chefinfo , .team-item  , .three-coulms .gallery-item , .three-coulms .grid-sizer , .three-coulms .gallery-item-second , .products li.product-cat-mains{
+.team-item  , .chefinfo , .team-item  , .three-columns .gallery-item , .three-columns .grid-sizer , .three-columns .gallery-item-second , .products li.product-cat-mains{
 	width:100% !important;
 }
 .grid-small-pad  .grid-item-holder{
@@ -2855,5 +2865,55 @@ nav li:hover > ul {
 @media (min-width: 768px) {
     .mobile-reverse {
         flex-direction: row;
+    }
+}
+
+/* ===== 2026 Tweaks ===== */
+
+body {
+    font-size:16px;
+    line-height:1.7;
+}
+
+h2 {
+    font-weight:600;
+    letter-spacing:0.5px;
+}
+
+.gallery-item img,
+.grid-sizer img {
+    border-radius:14px;
+}
+
+@media (max-width:768px){
+
+    .container{
+        width:100%;
+        padding-left:20px;
+        padding-right:20px;
+    }
+
+    section{
+        padding:60px 0;
+    }
+
+}
+
+/* NH fix for 4-row gallery to make sure it collapses on mobile */
+@media (max-width: 991px) and (min-width: 768px) {
+    .gallery-items.four-columns .gallery-item,
+    .gallery-items.four-columns .grid-sizer {
+        width: 50% !important;
+    }
+}
+
+@media (max-width: 767px) {
+    .gallery-items.four-columns .gallery-item,
+    .gallery-items.four-columns .grid-sizer,
+    .gallery-items.three-columns .gallery-item,
+    .gallery-items.three-columns .grid-sizer,
+    .gallery-items .gallery-item-second,
+    .gallery-items .gallery-item-three {
+        width: 100% !important;
     }
 }

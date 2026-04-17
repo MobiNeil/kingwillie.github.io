@@ -135,7 +135,7 @@
 
                             <div class="row">
                                 <div class="col-md-12">
-                                    <div class="gallery-items three-coulms grid-small-pad popup-gallery">
+                                    <div class="gallery-items three-columns grid-small-pad popup-gallery">
                                         <!-- 1 -->
                                         <div class="gallery-item menu">
                                             <div class="grid-item-holder">

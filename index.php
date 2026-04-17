@@ -274,7 +274,7 @@
                     <!--section end-->
                     <!--=============== menu ===============-->
                     <section class="parallax-section" id="sec3">
-                        <div class="bg bg-parallax" style="background-image:url(images/bg/1.jpg)" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);"></div>
+                        <div class="bg bg-parallax" style="background-image:url(images/food/bg_food_1.jpg)" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);"></div>
                         <div class="overlay"></div>
                         <div class="container">
                             <h2>Our menu</h2>
@@ -313,105 +313,150 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-12">
-                                    <div class="gallery-items three-coulms grid-small-pad popup-gallery">
+                                    <div class="gallery-items four-columns grid-small-pad popup-gallery">
                                         <!-- 1 -->
                                         <div class="gallery-item menu">
                                             <div class="grid-item-holder">
                                                 <div class="box-item">
-                                                    <a href="images/gallery/1.jpg" title="Image information">
+                                                    <a href="images/food/food1.jpg" title="Image information">
                                                     <span class="overlay"></span>
                                                     <i class="fa fa-search"></i>
-                                                    <img  src="images/gallery/1.jpg" alt="">
+                                                    <img  src="images/food/food1.jpg" alt="">
                                                     </a>
                                                 </div>
                                             </div>
                                         </div>
                                         <!-- 2 -->
-                                        <div class="gallery-item rest">
+                                        <div class="gallery-item menu">
                                             <div class="grid-item-holder">
                                                 <div class="box-item">
-                                                    <a href="images/gallery/1.jpg">
+                                                    <a href="images/food/food2.jpg" title="Image information">
                                                     <span class="overlay"></span>
                                                     <i class="fa fa-search"></i>
-                                                    <img  src="images/gallery/1.jpg"   alt="">
+                                                    <img  src="images/food/food2.jpg" alt="">
                                                     </a>
                                                 </div>
                                             </div>
                                         </div>
                                         <!-- 3 -->
-                                        <div class="gallery-item   menu">
+                                        <div class="gallery-item menu">
                                             <div class="grid-item-holder">
                                                 <div class="box-item">
-                                                    <a href="images/gallery/1.jpg">
+                                                    <a href="images/food/food5.jpg" title="Image information">
                                                     <span class="overlay"></span>
                                                     <i class="fa fa-search"></i>
-                                                    <img  src="images/gallery/1.jpg"   alt="">
+                                                    <img  src="images/food/food5.jpg" alt="">
                                                     </a>
                                                 </div>
                                             </div>
                                         </div>
                                         <!-- 4 -->
-                                        <div class="gallery-item gallery-item-second  menu">
+                                        <div class="gallery-item menu">
                                             <div class="grid-item-holder">
                                                 <div class="box-item">
-                                                    <a href="images/gallery/1.jpg">
+                                                    <a href="images/food/food6.jpg" title="Image information">
                                                     <span class="overlay"></span>
                                                     <i class="fa fa-search"></i>
-                                                    <img  src="images/gallery/1.jpg"   alt="">
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- 5 -->
-                                        <div class="gallery-item  ovid">
-                                            <div class="grid-item-holder">
-                                                <div class="box-item">
-                                                    <a href="https://www.youtube.com/watch?v=r7TnaQ4dwwo" class="popup-youtube">
-                                                    <span class="overlay"></span>
-                                                    <i class="fa fa-play-circle"></i>
-                                                    <img  src="images/gallery/2.jpg"   alt="">
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- 6 -->
-                                        <div class="gallery-item  rest">
-                                            <div class="grid-item-holder">
-                                                <div class="box-item">
-                                                    <a href="images/gallery/1.jpg">
-                                                    <span class="overlay"></span>
-                                                    <i class="fa fa-search"></i>
-                                                    <img  src="images/gallery/1.jpg"   alt="">
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- 7 -->
-                                        <div class="gallery-item  menu">
-                                            <div class="grid-item-holder">
-                                                <div class="box-item">
-                                                    <a href="images/gallery/1.jpg">
-                                                    <span class="overlay"></span>
-                                                    <i class="fa fa-search"></i>
-                                                    <img  src="images/gallery/1.jpg"   alt="">
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- 8 -->
-                                        <div class="gallery-item  ovid rest">
-                                            <div class="grid-item-holder">
-                                                <div class="box-item">
-                                                    <a href="https://player.vimeo.com/video/89546048" class="popup-vimeo">
-                                                    <span class="overlay"></span>
-                                                    <i class="fa fa-play-circle"></i>
-                                                    <img  src="images/gallery/1.jpg"   alt="">
+                                                    <img  src="images/food/food6.jpg" alt="">
                                                     </a>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- end gallery items -->
+                                    <!--
+                                    <div class="row g-0">
+                                        <div class="col-md-6">
+                                            <div class="grid-item-holder">
+                                                <div class="box-item">
+                                                    <img src="images/food/food3.jpg" alt="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="grid-item-holder">
+                                                <div class="box-item">
+                                                    <img src="images/food/food4.jpg" alt="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    -->
+                                    <!--
+                                    <div class="gallery-items two-col-fix grid-small-pad popup-gallery">
+                                        <div class="gallery-item gallery-item-second  menu">
+                                            <div class="grid-item-holder">
+                                                <div class="box-item">
+                                                    <a href="images/food/food3.jpg" title="Image information">
+                                                    <span class="overlay"></span>
+                                                    <i class="fa fa-search"></i>
+                                                    <img  src="images/food/food3.jpg" alt="">
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="gallery-item gallery-item-second  menu">
+                                            <div class="grid-item-holder">
+                                                <div class="box-item">
+                                                    <a href="images/food/food4.jpg" title="Image information">
+                                                    <span class="overlay"></span>
+                                                    <i class="fa fa-search"></i>
+                                                    <img  src="images/food/food4.jpg" alt="">
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    -->
+                                    <div class="gallery-items four-columns grid-small-pad popup-gallery">
+                                        <!-- 7 -->
+                                        <div class="gallery-item menu">
+                                            <div class="grid-item-holder">
+                                                <div class="box-item">
+                                                    <a href="images/food/food7.jpg" title="Image information">
+                                                    <span class="overlay"></span>
+                                                    <i class="fa fa-search"></i>
+                                                    <img  src="images/food/food7.jpg" alt="">
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- 8 -->
+                                        <div class="gallery-item menu">
+                                            <div class="grid-item-holder">
+                                                <div class="box-item">
+                                                    <a href="images/food/food8.jpg" title="Image information">
+                                                    <span class="overlay"></span>
+                                                    <i class="fa fa-search"></i>
+                                                    <img  src="images/food/food8.jpg" alt="">
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- 9 -->
+                                        <div class="gallery-item menu">
+                                            <div class="grid-item-holder">
+                                                <div class="box-item">
+                                                    <a href="images/food/food9.jpg" title="Image information">
+                                                    <span class="overlay"></span>
+                                                    <i class="fa fa-search"></i>
+                                                    <img  src="images/food/food9.jpg" alt="">
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- 10 -->
+                                        <div class="gallery-item menu">
+                                            <div class="grid-item-holder">
+                                                <div class="box-item">
+                                                    <a href="images/food/food10.jpg" title="Image information">
+                                                    <span class="overlay"></span>
+                                                    <i class="fa fa-search"></i>
+                                                    <img  src="images/food/food10.jpg" alt="">
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -428,7 +473,7 @@
                                         </a>
                                     </p>
                                     <div class="instagram-wrapper">
-                                    <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/9708b7478a8f5ca884369888a363fe4d.html?v=4" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+                                    <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/9708b7478a8f5ca884369888a363fe4d.html?v=5" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
                                     </div>
                                 </div>
                             </div>
