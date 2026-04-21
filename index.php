@@ -313,7 +313,7 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-12">
-                                    <div class="gallery-items four-columns grid-small-pad popup-gallery">
+                                    <div class="gallery-items three-columns grid-small-pad popup-gallery">
                                         <!-- 1 -->
                                         <div class="gallery-item menu">
                                             <div class="grid-item-holder">
@@ -330,10 +330,10 @@
                                         <div class="gallery-item menu">
                                             <div class="grid-item-holder">
                                                 <div class="box-item">
-                                                    <a href="images/food/food2.jpg" title="Image information">
+                                                    <a href="images/food/food10.jpg" title="Image information">
                                                     <span class="overlay"></span>
                                                     <i class="fa fa-search"></i>
-                                                    <img  src="images/food/food2.jpg" alt="">
+                                                    <img  src="images/food/food10.jpg" alt="">
                                                     </a>
                                                 </div>
                                             </div>
@@ -342,85 +342,39 @@
                                         <div class="gallery-item menu">
                                             <div class="grid-item-holder">
                                                 <div class="box-item">
-                                                    <a href="images/food/food5.jpg" title="Image information">
+                                                    <a href="images/food/food2.jpg" title="Image information">
                                                     <span class="overlay"></span>
                                                     <i class="fa fa-search"></i>
-                                                    <img  src="images/food/food5.jpg" alt="">
+                                                    <img  src="images/food/food2.jpg" alt="">
                                                     </a>
                                                 </div>
                                             </div>
                                         </div>
                                         <!-- 4 -->
-                                        <div class="gallery-item menu">
-                                            <div class="grid-item-holder">
-                                                <div class="box-item">
-                                                    <a href="images/food/food6.jpg" title="Image information">
-                                                    <span class="overlay"></span>
-                                                    <i class="fa fa-search"></i>
-                                                    <img  src="images/food/food6.jpg" alt="">
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!--
-                                    <div class="row g-0">
-                                        <div class="col-md-6">
-                                            <div class="grid-item-holder">
-                                                <div class="box-item">
-                                                    <img src="images/food/food3.jpg" alt="">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <div class="grid-item-holder">
-                                                <div class="box-item">
-                                                    <img src="images/food/food4.jpg" alt="">
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    -->
-                                    <!--
-                                    <div class="gallery-items two-col-fix grid-small-pad popup-gallery">
                                         <div class="gallery-item gallery-item-second  menu">
                                             <div class="grid-item-holder">
                                                 <div class="box-item">
-                                                    <a href="images/food/food3.jpg" title="Image information">
+                                                    <a href="images/food/food3_land.jpg">
                                                     <span class="overlay"></span>
                                                     <i class="fa fa-search"></i>
-                                                    <img  src="images/food/food3.jpg" alt="">
+                                                    <img  src="images/food/food3_land.jpg"   alt="">
                                                     </a>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="gallery-item gallery-item-second  menu">
+                                        <!-- 5 -->
+                                        <div class="gallery-item  ovid">
                                             <div class="grid-item-holder">
                                                 <div class="box-item">
-                                                    <a href="images/food/food4.jpg" title="Image information">
+                                                    <a href="images/food/food7_port.jpg">
                                                     <span class="overlay"></span>
                                                     <i class="fa fa-search"></i>
-                                                    <img  src="images/food/food4.jpg" alt="">
+                                                    <img  src="images/food/food7_port.jpg"   alt="">
                                                     </a>
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    -->
-                                    <div class="gallery-items four-columns grid-small-pad popup-gallery">
-                                        <!-- 7 -->
-                                        <div class="gallery-item menu">
-                                            <div class="grid-item-holder">
-                                                <div class="box-item">
-                                                    <a href="images/food/food7.jpg" title="Image information">
-                                                    <span class="overlay"></span>
-                                                    <i class="fa fa-search"></i>
-                                                    <img  src="images/food/food7.jpg" alt="">
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- 8 -->
+                                        <!-- 6 -->
                                         <div class="gallery-item menu">
                                             <div class="grid-item-holder">
                                                 <div class="box-item">
@@ -432,7 +386,19 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <!-- 9 -->
+                                        <!-- 7 -->
+                                        <div class="gallery-item menu">
+                                            <div class="grid-item-holder">
+                                                <div class="box-item">
+                                                    <a href="images/food/food5.jpg" title="Image information">
+                                                    <span class="overlay"></span>
+                                                    <i class="fa fa-search"></i>
+                                                    <img  src="images/food/food5.jpg" alt="">
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- 8 -->
                                         <div class="gallery-item menu">
                                             <div class="grid-item-holder">
                                                 <div class="box-item">
@@ -440,18 +406,6 @@
                                                     <span class="overlay"></span>
                                                     <i class="fa fa-search"></i>
                                                     <img  src="images/food/food9.jpg" alt="">
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- 10 -->
-                                        <div class="gallery-item menu">
-                                            <div class="grid-item-holder">
-                                                <div class="box-item">
-                                                    <a href="images/food/food10.jpg" title="Image information">
-                                                    <span class="overlay"></span>
-                                                    <i class="fa fa-search"></i>
-                                                    <img  src="images/food/food10.jpg" alt="">
                                                     </a>
                                                 </div>
                                             </div>

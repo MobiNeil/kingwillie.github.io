@@ -2772,9 +2772,9 @@ nav li a.act-link:before , nav li a.act-link:after {
 .page-title h2 {
 	font-size:30px;
 }
-/* .gallery-item {
+.gallery-item {
 	width:50% !important;
-} */
+}
 header.sticky nav a ,  header.flat-header nav a{
 	color:#fff;
 }
@@ -2897,23 +2897,4 @@ h2 {
         padding:60px 0;
     }
 
-}
-
-/* NH fix for 4-row gallery to make sure it collapses on mobile */
-@media (max-width: 991px) and (min-width: 768px) {
-    .gallery-items.four-columns .gallery-item,
-    .gallery-items.four-columns .grid-sizer {
-        width: 50% !important;
-    }
-}
-
-@media (max-width: 767px) {
-    .gallery-items.four-columns .gallery-item,
-    .gallery-items.four-columns .grid-sizer,
-    .gallery-items.three-columns .gallery-item,
-    .gallery-items.three-columns .grid-sizer,
-    .gallery-items .gallery-item-second,
-    .gallery-items .gallery-item-three {
-        width: 100% !important;
-    }
 }
