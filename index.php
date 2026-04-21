@@ -31,13 +31,15 @@
                                <?php include 'includes/socials.html'; ?>
                             </ul>
                         </div>
-                        <!--logo-->             
+                        <!--logo-->    
+                        <!--         
                         <div class="logo-holder">
                             <a href="index.html">
                             <img src="images/logo.png" class="respimg logo-vis" alt="">
                             <img src="images/logo2.png" class="respimg logo-notvis" alt="">
                             </a>
                         </div>
+                        -->
                         <!--Navigation -->
                         <div class="nav-holder">
                             <nav class="scroll-nav">
@@ -62,7 +64,7 @@
                     <div class="slideshow-container">
                         <!-- parallax image -->	
                         <div class="media-container" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);">
-                            <div class="bg" style="background-image: url(images/bg/1.jpg)"></div>
+                            <div class="bg" style="background-image: url(images/bg/bg_hotel_3.jpg)"></div>
                         </div>
                         <div class="hero-title-holder">
                             <div class="overlay"></div>
@@ -124,97 +126,14 @@
                             </div>
                         </div>
                     </section>
-                    <!--=============== Opening Hours ===============-->
-                    <section class="parallax-section">
-                        <div class="media-container video-parallax" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);">
-                            <div class="video-container">
-                                <video autoplay playsinline  loop muted  class="bgvid">
-                                    <source src="video/1.mp4" type="video/mp4">
-                                </video>
-                            </div>
-                        </div>
-                        <div class="overlay"></div>
-                        <div class="container">
-                            <h2>Opening Hours</h2>
-                            <div class="bold-separator">
-                                <span></span>
-                            </div>
-                            <div class="work-time">
-                                <div class="row">
-                                    <div class="col-md-6">
-                                        <h3>Monday to Thursday</h3>
-                                        <div class="hours">
-                                            11:00am<br>
-                                            11:00pm
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <h3>Friday to Saturday</h3>
-                                        <div class="hours">
-                                            11:00am<br>
-                                            Midnight
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-md-12">
-                                    <div class="big-number"><a href="#">0207 435 5153</a></div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                    <!--section end-->
-                    <!--=============== About 2 ===============-->
-                    <section class="about-section">
-                        <!-- triangle decoration-->
-                        <div class="triangle-decor">
-                        </div>
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <div class="single-slider-holder">
-                                        <div class="customNavigation">
-                                            <a class="next-slide transition"><i class="fa fa-angle-right"></i></a>
-                                            <a class="prev-slide transition"><i class="fa fa-angle-left"></i></a>
-                                        </div>
-                                        <div class="single-slider owl-carousel">
-                                            <!-- 1 -->
-                                            <div class="item">
-                                                <img src="images/slider/1.jpg" class="respimg" alt="">
-                                            </div>
-                                            <!-- 2 -->
-                                            <div class="item">
-                                                <img src="images/slider/1.jpg" class="respimg" alt="">
-                                            </div>
-                                            <!-- 3 -->
-                                            <div class="item">
-                                                <img src="images/slider/1.jpg" class="respimg" alt="">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="section-title">
-                                        <h3>Our restorans</h3>
-                                        <h4 class="decor-title">Natoque penatibus</h4>
-                                        <div class="separator color-separator"></div>
-                                    </div>
-                                    <p>The History of Kitchens and Cooks gives further intimation on Mr Boulanger usual menu, stating confidently that "Boulanger served salted poultry and fresh eggs, all presented without a tablecloth on small marble tables". Numerous commentators have also referred to the supposed restaurant owner's eccentric habit of touting for custom outside his establishment, dressed in aristocratic fashion and brandishing a sword</p>
-                                    <p>Restaurant owner's eccentric habit of touting for custom outside his establishment, dressed in aristocratic fashion and brandishing a sword</p>
-                                    <a class="custom-scroll-link link" href="#sec4">View gallery</a>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                    <!--section end-->
                     <!--=============== parallax section  ===============-->
                     <section class="parallax-section" id="sec5">
-                        <div class="bg bg-parallax" style="background-image:url(images/bg/1.jpg)" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);"></div>
+                        <div class="bg bg-parallax" style="background-image:url(images/bg/bg_hotel_4.jpg)" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);"></div>
                         <div class="overlay"></div>
                         <div class="container">
                             <h2>What's Happening</h2>
-                            <h3>Live Music and Events</h3>
+                            <h3>Opening Hours</h3>
+                            <h3>Mon - Thurs 11.00 - 23.00, Fri - Sat 11.00 - 24.00, Sun 12.00 - 23.00</h3>
                         </div>
                     </section>
                     <!--section end-->
@@ -279,9 +198,6 @@
                         <div class="container">
                             <h2>Our menu</h2>
                             <a class="custom-scroll-link link" target="_blank" rel="noopener noreferrer"  href="pub_menu/menu.pdf">full menu</a>
-                            <div class="bold-separator">
-                                <span></span>
-                            </div>
                         </div>
                     </section>
                     <!--section end-->
@@ -301,11 +217,11 @@
                         </div>
                     </section>
                     <section class="parallax-section" id="sec4">
-                        <div class="bg bg-parallax" style="background-image:url(images/bg/1.jpg)" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);"></div>
+                        <div class="bg bg-parallax" style="background-image:url(images/bg/bg_hotel_1.jpg)" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);"></div>
                         <div class="overlay"></div>
                         <div class="container">
-                            <h2>Our gallery</h2>
-                            <h3>Booking a table online is easy</h3>
+                            <h2>Gallery</h2>
+                            <h3></h3>
                         </div>
                     </section>
                     <section>
@@ -481,11 +397,11 @@
                     </section>
                     <!--=============== testimonials ===============-->
                     <section class="parallax-section">
-                        <div class="bg bg-parallax" style="background-image:url(images/bg/1.jpg)" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);"></div>
+                        <div class="bg bg-parallax" style="background-image:url(images/bg/bg_hotel_2.jpg)" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);"></div>
                         <div class="overlay"></div>
                         <div class="container">
                             <h2>Testimonials</h2>
-                            <h3>What said about us</h3>
+                            <h3>What they said about us</h3>
                             <div class="bold-separator">
                                 <span></span>
                             </div>
