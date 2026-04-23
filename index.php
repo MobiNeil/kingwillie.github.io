@@ -144,52 +144,54 @@
                     <section>
                         <div class="triangle-decor"></div>
                         <div class="container">
-                            <div class="col-md-6">
-                                <div class="section-title">
-                                    <h3 style="line-height:1.8;">Monday</h3>
-                                    <div class="menu-item-desc" style="float:none; text-align:center;">Open Mic 7.30pm</div>
-                                </div>
-                                <div class="section-title">
-                                    <h3 style="line-height:1.8;">Tuesday</h3>
-                                    <div class="menu-item-desc" style="float:none; text-align:center;">Quiz Night</div>
-                                </div>
-                                <div class="section-title">
-                                    <h3 style="line-height:1.8;">Wednesday</h3>
-                                    <div class="menu-item-desc" style="float:none; text-align:center;">Live Music 8.00pm</div>
-                                </div>
-                                <div class="section-title">
-                                    <h3 style="line-height:1.8;">Thursday</h3>
-                                    <div class="menu-item-desc" style="float:none; text-align:center;">Piano Sing-along 8.00pm</div>
-                                </div>
-                                <div class="section-title">
-                                    <h3 style="line-height:1.8;">Friday</h3>
-                                    <div class="menu-item-desc" style="float:none; text-align:center;">Live Music, Late Bar</div>
-                                </div>
-                                <div class="section-title">
-                                    <h3 style="line-height:1.8;">Saturday</h3>
-                                    <div class="menu-item-desc" style="float:none; text-align:center;">Late Bar & Tunes</div>
-                                </div>
-                                <div class="section-title">
-                                    <h3 style="line-height:1.8;">Sunday</h3>
-                                    <div class="menu-item-desc" style="float:none; text-align:center;">Sunday Roasts & Bloody Marys</div>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="section-title">
-                                    <!--
-                                    <h3 style="line-height:1.8;">Sundays</h3>
-                                    <div class="menu-item-desc" style="float:none; text-align:center;">Sunday Roasts & Bloody Marys</div>
-                                    <div class="bold-separator">
-                                        <span></span>
+                            <div class="row happening-row">
+                                <div class="col-md-6">
+                                    <div class="section-title">
+                                        <h3 style="line-height:1.8;">Monday</h3>
+                                        <div class="menu-item-desc" style="float:none; text-align:center;">Open Mic 7.30pm</div>
                                     </div>
-                                    -->
-                                    <!--
-                                <p style="float:none; text-align:center;">One of our busiest days,<br/> try one of our roasts in beautiful Hampstead.<br/></p>
+                                    <div class="section-title">
+                                        <h3 style="line-height:1.8;">Tuesday</h3>
+                                        <div class="menu-item-desc" style="float:none; text-align:center;">Quiz Night</div>
+                                    </div>
+                                    <div class="section-title">
+                                        <h3 style="line-height:1.8;">Wednesday</h3>
+                                        <div class="menu-item-desc" style="float:none; text-align:center;">Live Music 8.00pm</div>
+                                    </div>
+                                    <div class="section-title">
+                                        <h3 style="line-height:1.8;">Thursday</h3>
+                                        <div class="menu-item-desc" style="float:none; text-align:center;">Piano Sing-along 8.00pm</div>
+                                    </div>
+                                    <div class="section-title">
+                                        <h3 style="line-height:1.8;">Friday</h3>
+                                        <div class="menu-item-desc" style="float:none; text-align:center;">Live Music, Late Bar</div>
+                                    </div>
+                                    <div class="section-title">
+                                        <h3 style="line-height:1.8;">Saturday</h3>
+                                        <div class="menu-item-desc" style="float:none; text-align:center;">Late Bar & Tunes</div>
+                                    </div>
+                                    <div class="section-title">
+                                        <h3 style="line-height:1.8;">Sunday</h3>
+                                        <div class="menu-item-desc" style="float:none; text-align:center;">Sunday Roasts & Bloody Marys</div>
+                                    </div>
                                 </div>
-                                    <div class="promotion-desc" style="float:none; text-align:center;line-height:1.6;">Veggie Wellington,<br/>Beef, Pork, or Chicken,<br/>served with all the trimmings.</div>
+                                <div class="col-md-6">
+                                    <div class="section-title">
+                                        <!--
+                                        <h3 style="line-height:1.8;">Sundays</h3>
+                                        <div class="menu-item-desc" style="float:none; text-align:center;">Sunday Roasts & Bloody Marys</div>
+                                        <div class="bold-separator">
+                                            <span></span>
+                                        </div>
+                                        -->
+                                        <!--
+                                    <p style="float:none; text-align:center;">One of our busiest days,<br/> try one of our roasts in beautiful Hampstead.<br/></p>
+                                    </div>
+                                        <div class="promotion-desc" style="float:none; text-align:center;line-height:1.6;">Veggie Wellington,<br/>Beef, Pork, or Chicken,<br/>served with all the trimmings.</div>
+                                    </div>
+    -->
+                                    <img src="images/quiz_ad.jpg" class="quiz-image"/>
                                 </div>
--->
-                                <img src="images/quiz_ad.jpg" class="quiz-image"/>
                             </div>
                         </div>
                     </section>
