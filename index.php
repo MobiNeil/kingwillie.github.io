@@ -136,8 +136,7 @@
                         <div class="overlay"></div>
                         <div class="container">
                             <h2>What's Happening</h2>
-                            <h3>Opening Hours</h3>
-                            <h3>Mon - Thurs 11.00 - 23.00, Fri - Sat 11.00 - 24.00, Sun 12.00 - 23.00</h3>
+                            <h3>Live Music and Events</h3>
                         </div>
                     </section>
                     <!--section end-->
@@ -358,8 +357,32 @@
                         <div class="bg bg-parallax" style="background-image:url(images/bg/bg_hotel_3.jpg)" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);"></div>
                         <div class="overlay"></div>
                         <div class="container">
-                            <h2>Our contacts</h2>
-                            <h3>Were to find us</h3>
+                            <h2>Visit Us</h2>
+                            <div class="bold-separator">
+                                <span></span>
+                            </div>
+                            <div class="work-time">
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <h3>Mon to Thurs</h3>
+                                        <div class="hours">
+                                            11:00 - 23:00
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <h3>Friday & Saturday</h3>
+                                        <div class="hours">
+                                            11:00 - 24:00
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <h3>Sunday</h3>
+                                        <div class="hours">
+                                            12:00 - 23:00
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </section>
                     <section>
