@@ -525,7 +525,10 @@ async function loadTestimonials() {
       loop: true,
       autoplay: true,
       nav: false,
-      dots: false
+      dots: false,
+      itemsDesktop: [1199, 1],
+      itemsTablet: [768, 1],
+      itemsMobile: [479, 1]
     });
 
   } catch (err) {

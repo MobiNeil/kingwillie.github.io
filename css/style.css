@@ -2489,6 +2489,10 @@ article h4 a:hover {
 	max-width:800px;
 	margin:0 auto;
 	position:relative;
+	border-radius: 10px;
+    overflow: hidden;
+    background: rgba(0,0,0,0.6);
+    padding: 20px;
 }
 .testimonials-holder p {
 	text-align:center;
@@ -2502,13 +2506,35 @@ article h4 a:hover {
 	letter-spacing:2px;
 }
 .testimonials-slider ul {
-	float:left;
-	width:100%;
-	margin:20px 0 20px 0;
+    margin: 0 0 15px 0;
+    padding: 0;
 }
 .testimonials-slider ul li {
 	display:inline-block;
 	font-size:16px;
+}
+.testimonials-slider .item {
+    background: transparent;
+}
+.testimonials-slider p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #f2f2f2;
+    margin: 15px 0;
+}
+.testimonials-slider .fa-star {
+    color: #fbbc05;
+    font-size: 15px;
+}
+.testimonials-slider h4 {
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 10px;
+    opacity: 0.9;
+}
+.testimonials-slider h4 a {
+    color: #fff;
+    text-decoration: none;
 }
 .testimonials-holder .customNavigation {
 	position:relative;
@@ -2521,6 +2547,11 @@ article h4 a:hover {
 	display:inline-block;
 	cursor:pointer;
 	transition: all 0.3s ease-in-out;
+}
+.testimonials-slider,
+.testimonials-slider .owl-wrapper-outer,
+.testimonials-slider .owl-wrapper {
+    overflow: hidden;
 }
 /*------ Reservation  ------------------------------------------------*/
 .reservation-form-holder {
