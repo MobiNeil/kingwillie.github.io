@@ -87,7 +87,7 @@
                     <!--=============== About ===============-->
                     <section class="about-section" id="sec2">
                         <div class="container">
-                            <div class="row">
+                            <div class="row about-row">
                                 <!--about text-->
                                 <div class="col-md-6">
                                     <div class="section-title">
@@ -110,15 +110,19 @@
                                         <div class="single-slider owl-carousel">
                                             <!-- 1 -->
                                             <div class="item">
-                                                <img src="images/bg/1.jpg" class="respimg" alt="">
+                                                <img src="images/pub/pub1.jpg" class="respimg" alt="">
                                             </div>
                                             <!-- 2 -->
                                             <div class="item">
-                                                <img src="images/bg/1.jpg" class="respimg" alt="">
+                                                <img src="images/pub/pub2.jpg" class="respimg" alt="">
                                             </div>
                                             <!-- 3 -->
                                             <div class="item">
-                                                <img src="images/bg/1.jpg" class="respimg" alt="">
+                                                <img src="images/pub/pub4.jpg" class="respimg" alt="">
+                                            </div>
+                                            <!-- 3 -->
+                                            <div class="item">
+                                                <img src="images/pub/pub3.jpg" class="respimg" alt="">
                                             </div>
                                         </div>
                                     </div>
