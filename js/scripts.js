@@ -140,6 +140,25 @@ function initLambert() {
     $(".single-slider-holder a.prev-slide").on("click", function () {
         e.trigger("owl.prev");
     });
+    var e2 = $(".menu-slider");
+    e2.owlCarousel({
+        singleItem: true,
+        slideSpeed: 700,
+        navigation: false,
+        pagination: true,
+        responsiveRefreshRate: 200,
+        autoHeight: false,
+        autoPlay: 4000,      // change image every 3 seconds
+        stopOnHover: true,    // pause when mouse hovers
+        rewindNav: true
+    });
+    $(".menu-slider-holder a.next-slide").on("click", function () {
+        e2.trigger("owl.next");
+    });
+
+    $(".menu-slider-holder a.prev-slide").on("click", function () {
+        e2.trigger("owl.prev");
+    });
     var f = $(".product-slider");
     f.owlCarousel({
         navigation: false,

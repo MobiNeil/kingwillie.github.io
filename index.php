@@ -209,7 +209,7 @@
                     <section>
                         <div class="triangle-decor"></div>
                         <div class="container">
-                            <?php include 'pub_menu/mains.html'; ?>
+                            <?php include 'pub_menu/mains_split.html'; ?>
                             <div class="bold-separator">
                                 <span></span>
                             </div>
