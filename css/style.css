@@ -176,6 +176,14 @@ section {
 .parallax-section .overlay {
 	opacity:0.5;
 }
+.parallax-section a {
+	font-weight:bold;
+	font-size:2em;
+}
+.menu-link a {
+	font-weight:bold;
+	font-size:2em;
+}
 .section-separator {
 	float:right;
 	width:70%;
@@ -968,7 +976,7 @@ header.sticky nav a , header.sticky .subnav a  , header.flat-header .nav-social 
 /* NH this works nicely for all images fitting into one frame, with black borders if portrait  */
 /* OPTION 1: Fixed fit with black bars */
 .menu-slider .item {
-    height: 534px;
+    height: 531px;
     background: #1b1b1b;
     display: flex;
     align-items: center;
@@ -1674,7 +1682,7 @@ article {
 }
 .insta-link {
     text-align: center;
-	padding: 0 0 40px 0;
+	padding: 40px 0 40px 0;
 }
 .insta-link a {
     text-align: center;

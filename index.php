@@ -218,7 +218,9 @@
                             <div class="bold-separator">
                                 <span></span>
                             </div>
-                            <a class="custom-scroll-link link" target="_blank" rel="noopener noreferrer"  href="pub_menu/menu.pdf">See our full menu</a>
+                            <div class="menu-link">
+                                <a class="custom-scroll-link link" target="_blank" rel="noopener noreferrer"  href="pub_menu/menu.pdf">See our full menu</a>
+                            </div>
                         </div>
                     </section>
                     <section class="parallax-section" id="sec4">
@@ -229,114 +231,7 @@
                             <h3></h3>
                         </div>
                     </section>
-                    <section>
-                        <div class="triangle-decor"></div>
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-md-12">
-                                    <div class="gallery-items three-columns grid-small-pad popup-gallery">
-                                        <!-- 1 -->
-                                        <div class="gallery-item menu">
-                                            <div class="grid-item-holder">
-                                                <div class="box-item">
-                                                    <a href="images/food/food1.jpg" title="Image information">
-                                                    <span class="overlay"></span>
-                                                    <i class="fa fa-search"></i>
-                                                    <img  src="images/food/food1.jpg" alt="">
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- 2 -->
-                                        <div class="gallery-item menu">
-                                            <div class="grid-item-holder">
-                                                <div class="box-item">
-                                                    <a href="images/food/food10.jpg" title="Image information">
-                                                    <span class="overlay"></span>
-                                                    <i class="fa fa-search"></i>
-                                                    <img  src="images/food/food10.jpg" alt="">
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- 3 -->
-                                        <div class="gallery-item menu">
-                                            <div class="grid-item-holder">
-                                                <div class="box-item">
-                                                    <a href="images/food/food2.jpg" title="Image information">
-                                                    <span class="overlay"></span>
-                                                    <i class="fa fa-search"></i>
-                                                    <img  src="images/food/food2.jpg" alt="">
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- 4 -->
-                                        <div class="gallery-item gallery-item-second  menu">
-                                            <div class="grid-item-holder">
-                                                <div class="box-item">
-                                                    <a href="images/food/food3_land.jpg">
-                                                    <span class="overlay"></span>
-                                                    <i class="fa fa-search"></i>
-                                                    <img  src="images/food/food3_land.jpg"   alt="">
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- 5 -->
-                                        <div class="gallery-item  ovid">
-                                            <div class="grid-item-holder">
-                                                <div class="box-item">
-                                                    <a href="images/food/food7_port.jpg">
-                                                    <span class="overlay"></span>
-                                                    <i class="fa fa-search"></i>
-                                                    <img  src="images/food/food7_port.jpg"   alt="">
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- 6 -->
-                                        <div class="gallery-item menu">
-                                            <div class="grid-item-holder">
-                                                <div class="box-item">
-                                                    <a href="images/food/food8.jpg" title="Image information">
-                                                    <span class="overlay"></span>
-                                                    <i class="fa fa-search"></i>
-                                                    <img  src="images/food/food8.jpg" alt="">
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- 7 -->
-                                        <div class="gallery-item menu">
-                                            <div class="grid-item-holder">
-                                                <div class="box-item">
-                                                    <a href="images/food/food5.jpg" title="Image information">
-                                                    <span class="overlay"></span>
-                                                    <i class="fa fa-search"></i>
-                                                    <img  src="images/food/food5.jpg" alt="">
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- 8 -->
-                                        <div class="gallery-item menu">
-                                            <div class="grid-item-holder">
-                                                <div class="box-item">
-                                                    <a href="images/food/food9.jpg" title="Image information">
-                                                    <span class="overlay"></span>
-                                                    <i class="fa fa-search"></i>
-                                                    <img  src="images/food/food9.jpg" alt="">
-                                                    </a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                    <!--section end-->
+                    <!-- NH original gallery went here, now moved out to optional_gallery.html -->
                     <!-- NEW INSTAGRAM SECTION -->
                     <section class="instagram-section">
                         <div class="container">
