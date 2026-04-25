@@ -3019,11 +3019,6 @@ h2 {
     letter-spacing:0.5px;
 }
 
-.gallery-item img,
-.grid-sizer img {
-    border-radius:14px;
-}
-
 @media (max-width:768px){
 
     .container{
