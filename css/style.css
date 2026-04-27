@@ -218,14 +218,14 @@ section {
         min-height: 280px;
     }
 }
-/* NH disable parallax on the Contact Us section as it breaks when resizing browser */
-#sec6 .bg-parallax {
+/* NH disable parallax on the Contact Us section if it breaks */
+/* #sec6 .bg-parallax {
     transform: none !important;
 }
-
 #sec6 {
     overflow: hidden;
-}
+} */
+
 section.header-section {
 	padding:250px 0;
 	border-top:20px solid #fff;

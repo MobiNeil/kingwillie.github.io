@@ -108,21 +108,32 @@
                                             <a class="prev-slide transition"><i class="fa fa-angle-left"></i></a>
                                         </div>
                                         <div class="single-slider owl-carousel">
-                                            <!-- 1 -->
                                             <div class="item">
                                                 <img src="images/pub/pub1.jpg" class="respimg" alt="">
                                             </div>
-                                            <!-- 2 -->
+                                            <div class="item">
+                                                <img src="images/pub/pub9.jpg" class="respimg" alt="">
+                                            </div>
+                                            <div class="item">
+                                                <img src="images/pub/pub10.jpg" class="respimg" alt="">
+                                            </div>
                                             <div class="item">
                                                 <img src="images/pub/pub2.jpg" class="respimg" alt="">
                                             </div>
-                                            <!-- 3 -->
                                             <div class="item">
                                                 <img src="images/pub/pub4.jpg" class="respimg" alt="">
                                             </div>
-                                            <!-- 3 -->
                                             <div class="item">
                                                 <img src="images/pub/pub3.jpg" class="respimg" alt="">
+                                            </div>
+                                            <div class="item">
+                                                <img src="images/pub/pub11.jpg" class="respimg" alt="">
+                                            </div>
+                                            <div class="item">
+                                                <img src="images/pub/pub5.jpg" class="respimg" alt="">
+                                            </div>
+                                            <div class="item">
+                                                <img src="images/pub/pub6.jpg" class="respimg" alt="">
                                             </div>
                                         </div>
                                     </div>
@@ -251,7 +262,7 @@
                     </section>
                     <!--=============== contacts ===============-->
                     <section class="parallax-section" id="sec6">
-                        <div class="bg bg-parallax" style="background-image:url(images/bg/bg_hotel_3.jpg)" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);"></div>
+                        <div class="bg bg-parallax" style="background-image:url(images/bg/bg_hotel_6.jpg)" data-top-bottom="transform: translateY(220px);" data-bottom-top="transform: translateY(-220px);"></div>
                         <div class="overlay"></div>
                         <div class="container">
                             <h2>Visit Us</h2>
