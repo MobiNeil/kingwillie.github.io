@@ -188,7 +188,7 @@
                                 </div>
                                 <div class="col-md-6">
                                     <div class="section-title">
-                                    <img src="images/quiz_ad.jpg" class="quiz-image"/>
+                                        <img src="images/quiz_ad.jpg" class="quiz-image"  alt=""/>
                                 </div>
                             </div>
                         </div>
@@ -290,13 +290,15 @@
                                         <h3>Our location</h3>
                                     </div>
                                 </div>
-                                <div class="contact-details">
-                                    <h4 style="float:none; text-align:center;">King William IV Pub</h4>
-                                    <ul>
-                                        <li><p style="float:none; text-align:center;">77 Hampstead High St, London NW3 1RE</p></li>
-                                        <li><p style="float:none; text-align:center;">0207 435 5153</p></li>
-                                        <li><p style="float:none; text-align:center;">pub@kingwilliamhampstead.com</p></li>
-                                    </ul>
+                                <div class="col-md-12">
+                                    <div class="contact-details">
+                                        <h4 style="float:none; text-align:center;">King William IV Pub</h4>
+                                        <ul>
+                                            <li><p style="float:none; text-align:center;">77 Hampstead High St, London NW3 1RE</p></li>
+                                            <li><p style="float:none; text-align:center;">0207 435 5153</p></li>
+                                            <li><p style="float:none; text-align:center;">pub@kingwilliamhampstead.com</p></li>
+                                        </ul>
+                                    </div>
                                 </div>
                             </div>
                         </div>
