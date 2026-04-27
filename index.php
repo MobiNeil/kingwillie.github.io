@@ -48,7 +48,7 @@
                                     <li><a href="#sec2">About</a></li>
                                     <li><a href="#sec3">Menu</a></li>
                                     <li><a href="#sec4">Gallery</a></li>
-                                    <li><a href="#sec6">Contact</a></li>
+                                    <li><a href="#sec6">Visit</a></li>
                                     <li><a href="hotel.php" class="external">Hotel</a></li>
                                 </ul>
                             </nav>
@@ -225,10 +225,10 @@
                                 <span></span>
                             </div>
                             <!-- choice here, either use desserts.html or others.html -->
-                            <?php include 'pub_menu/others.html'; ?>
-                            <div class="bold-separator">
+                            <?php /* include 'pub_menu/others.html'; */ ?>
+                            <!--<div class="bold-separator">
                                 <span></span>
-                            </div>
+                            </div>-->
                             <div class="menu-link">
                                 <a class="custom-scroll-link link" target="_blank" rel="noopener noreferrer"  href="pub_menu/menu.pdf">See our full menu</a>
                             </div>
@@ -245,6 +245,7 @@
                     <!-- NH original gallery went here, now moved out to optional_gallery.html -->
                     <!-- NEW INSTAGRAM SECTION -->
                     <section class="instagram-section">
+                        <div class="triangle-decor"></div>
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-12">
@@ -303,13 +304,13 @@
                                     </div>
                                 </div>
                                 <div class="contact-details">
-                                        <h4 style="float:none; text-align:center;">King William IV Pub</h4>
-                                        <ul>
-                                            <li><p style="float:none; text-align:center;">77 Hampstead High St, London NW3 1RE</p></li>
-                                            <li><p style="float:none; text-align:center;">0207 435 5153</p></li>
-                                            <li><p style="float:none; text-align:center;">pub@kingwilliamhampstead.com</p></li>
-                                        </ul>
-                                    </div>
+                                    <h4 style="float:none; text-align:center;">King William IV Pub</h4>
+                                    <ul>
+                                        <li><p style="float:none; text-align:center;">77 Hampstead High St, London NW3 1RE</p></li>
+                                        <li><p style="float:none; text-align:center;">0207 435 5153</p></li>
+                                        <li><p style="float:none; text-align:center;">pub@kingwilliamhampstead.com</p></li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </section>

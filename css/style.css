@@ -2651,7 +2651,7 @@ article h4 a:hover {
 }
 .contact-details h4 {
 	margin-bottom:10px;
-	font-size:14px;
+	font-size:18px;
 	text-transform:uppercase;
 	letter-spacing:1px;
 	font-weight:bold;
@@ -2659,10 +2659,14 @@ article h4 a:hover {
 .contact-details ul  {
 	padding-bottom:20px;
 }
+.contact-details ul li p {
+	padding:2px 0;
+	font-size:18px;
+	width:100%;
+}
 .contact-details ul li a {
 	padding:2px 0;
-	float:left;
-	font-size:13px;
+	font-size:18px;
 	width:100%;
 }
 .contact-details ul li a:hover {
