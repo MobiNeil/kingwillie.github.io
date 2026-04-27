@@ -160,7 +160,7 @@ blockquote p {
 	opacity:0.2;
 	z-index:2;
 }
-/* --------- Section's--------------------------------------*/
+/* --------- Sections--------------------------------------*/
 section {
 	float:left;
 	width:100%;
@@ -219,12 +219,12 @@ section {
     }
 }
 /* NH disable parallax on the Contact Us section if it breaks */
-/* #sec6 .bg-parallax {
+#sec6 .bg-parallax {
     transform: none !important;
 }
 #sec6 {
     overflow: hidden;
-} */
+}
 
 section.header-section {
 	padding:250px 0;
@@ -277,6 +277,11 @@ section.header-section {
 }
 .about-section .single-slider-holder {
 	margin-top:0;
+}
+.about-section p {
+	font-size: 18px;
+	float:none;
+	text-align:center;
 }
 .bold-separator {
 	float:left;

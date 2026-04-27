@@ -46,9 +46,10 @@
                                 <ul>
                                     <li><a href="#sec1" class="act-link">Home</a></li>
                                     <li><a href="#sec2">About</a></li>
-                                    <li><a href="#sec3">Menu</a></li>
-                                    <li><a href="#sec4">Gallery</a></li>
-                                    <li><a href="#sec6">Visit</a></li>
+                                    <li><a href="#sec3">Events</a></li>
+                                    <li><a href="#sec4">Menu</a></li>
+                                    <li><a href="#sec5">Gallery</a></li>
+                                    <li><a href="#sec6">Visit Us</a></li>
                                     <li><a href="hotel.php" class="external">Hotel</a></li>
                                 </ul>
                             </nav>
@@ -98,7 +99,6 @@
                                     <p>Our walls are dedicated to the people of Hampstead with over 100 portraits throughout the pub walls with maximalist effect. We offer the best Drink Deals in the village along with serving award winning traditional pub food 7 days a week!</p>
                                     <p>I welcome you to Hampstead.</p>
                                     <p>Mr James Mcgrath</p>
-                                    <a class="custom-scroll-link link" href="#sec3">Discover our menu</a>
                                 </div>
                                 <!-- about images-->
                                 <div class="col-md-6">
@@ -142,7 +142,7 @@
                         </div>
                     </section>
                     <!--=============== parallax section  ===============-->
-                    <section class="parallax-section" id="sec5">
+                    <section class="parallax-section" id="sec3">
                         <div class="bg bg-parallax" style="background-image:url(images/bg/bg_hotel_4.jpg)" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);"></div>
                         <div class="overlay"></div>
                         <div class="container">
@@ -188,19 +188,6 @@
                                 </div>
                                 <div class="col-md-6">
                                     <div class="section-title">
-                                        <!--
-                                        <h3 style="line-height:1.8;">Sundays</h3>
-                                        <div class="menu-item-desc" style="float:none; text-align:center;">Sunday Roasts & Bloody Marys</div>
-                                        <div class="bold-separator">
-                                            <span></span>
-                                        </div>
-                                        -->
-                                        <!--
-                                    <p style="float:none; text-align:center;">One of our busiest days,<br/> try one of our roasts in beautiful Hampstead.<br/></p>
-                                    </div>
-                                        <div class="promotion-desc" style="float:none; text-align:center;line-height:1.6;">Veggie Wellington,<br/>Beef, Pork, or Chicken,<br/>served with all the trimmings.</div>
-                                    </div>
-    -->
                                     <img src="images/quiz_ad.jpg" class="quiz-image"/>
                                 </div>
                             </div>
@@ -208,7 +195,7 @@
                     </section>
                     <!--section end-->
                     <!--=============== menu ===============-->
-                    <section class="parallax-section" id="sec3">
+                    <section class="parallax-section" id="sec4">
                         <div class="bg bg-parallax" style="background-image:url(images/food/bg_food_1.jpg)" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);"></div>
                         <div class="overlay"></div>
                         <div class="container">
@@ -234,7 +221,7 @@
                             </div>
                         </div>
                     </section>
-                    <section class="parallax-section" id="sec4">
+                    <section class="parallax-section" id="sec5">
                         <div class="bg bg-parallax" style="background-image:url(images/bg/bg_hotel_1.jpg)" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);"></div>
                         <div class="overlay"></div>
                         <div class="container">
@@ -263,7 +250,7 @@
                     </section>
                     <!--=============== contacts ===============-->
                     <section class="parallax-section" id="sec6">
-                        <div class="bg bg-parallax" style="background-image:url(images/bg/bg_hotel_6.jpg)" data-top-bottom="transform: translateY(240px);" data-bottom-top="transform: translateY(-240px);"></div>
+                        <div class="bg bg-parallax" style="background-image:url(images/bg/bg_hotel_6.jpg)" data-top-bottom="transform: translateY(220px);" data-bottom-top="transform: translateY(-220px);"></div>
                         <div class="overlay"></div>
                         <div class="container">
                             <h2>Visit Us</h2>
@@ -316,18 +303,8 @@
                     </section>
                     <section class="no-padding">
                         <div class="map-box">
-                            <div class="map-holder" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);">
+                            <div class="map-holder">
                                 <div  id="map-canvas"></div>
-                            </div>
-                        </div>
-                    </section>
-                    <section>
-                        <div class="triangle-decor"></div>
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-md-12">
-                                    
-                                </div>
                             </div>
                         </div>
                     </section>
