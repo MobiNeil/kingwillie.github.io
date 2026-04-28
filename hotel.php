@@ -48,8 +48,8 @@
                         <div class="nav-holder">
                             <nav>
                                 <ul>
-                                    <li><a href="#sec1" class="external act-link">Home</a></li>
-                                    <li><a href="#sec4">Gallery</a></li>
+                                    <li><a href="#sec1">About</a></li>
+                                    <li><a href="#sec4">Rooms</a></li>
                                     <li><a href="#sec5">Contact</a></li>
                                     <li><a href="../index.php" class="external">Pub</a></li>
                                 </ul>
@@ -100,8 +100,8 @@
                         <div class="bg bg-parallax" style="background-image:url(images/bg/bg_hotel_2.jpg)" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);"></div>
                         <div class="overlay"></div>
                         <div class="container">
-                            <h2>Gallery</h2>
-                            <h3>Images and videos of our rooms</h3>
+                            <h2>Our Rooms</h2>
+                            <!-- <h3>Images and videos of our rooms</h3> -->
                         </div>
                     </section>
                     <!--=============== About 2 ===============-->
@@ -115,7 +115,7 @@
                                 <div class="col-md-6">
                                     <div class="section-title">
                                         <!-- <h3>Virtual Tour</h3> -->
-                                        <h4 class="decor-title">Our rooms</h4>
+                                        <h4 class="decor-title">About our rooms</h4>
                                         <div class="separator color-separator"></div>
                                     </div>
                                     <p>Adelaide and Elizabeth rooms have king size four-poster beds.</p>
@@ -125,6 +125,8 @@
                                     <p>All our rooms are non-smoking.</p>
                                     <p>Please note, we are not a B & B. There are plenty of breakfast options on the high street and we will happily offer recommendations.</p>
                                     <p>Also, the rooms are situated above a vibrant pub, so expect to hear some laughter, chat and occasional singing in the background before the pub closes at 11pm.</p>
+                                    <p></p>
+                                    <p></p>
                                 </div>
                                 <!-- about images-->
                                 <div class="col-md-6">
@@ -140,11 +142,9 @@
                                     </div>
                                 </div>
                             </div>
-
                             <div class="bold-separator">
                                 <span></span>
                             </div>
-
                             <div class="row">
                                 <div class="col-md-12">
                                     <div class="gallery-items three-columns grid-small-pad popup-gallery">
@@ -152,43 +152,27 @@
                                         <div class="gallery-item menu">
                                             <div class="grid-item-holder">
                                                 <div class="box-item">
-                                                    <a href="images/hotel/adelaide_room.jpg">
-                                                    <span class="overlay"></span>
-                                                    <i class="fa fa-search"></i>
                                                     <img  src="images/hotel/adelaide_room.jpg" alt="">
-                                                    </a>
                                                 </div>
                                             </div>
                                         </div>
-                                        <!-- 2 -->
                                         <div class="gallery-item rest">
                                             <div class="grid-item-holder">
                                                 <div class="box-item">
-                                                    <a href="images/hotel/catherine_room.jpg">
-                                                    <span class="overlay"></span>
-                                                    <i class="fa fa-search"></i>
                                                     <img  src="images/hotel/catherine_room.jpg"   alt="">
-                                                    </a>
                                                 </div>
                                             </div>
                                         </div>
-                                        <!-- 3 -->
                                         <div class="gallery-item   menu">
                                             <div class="grid-item-holder">
                                                 <div class="box-item">
-                                                    <a href="images/hotel/elizabeth_room.jpg">
-                                                    <span class="overlay"></span>
-                                                    <i class="fa fa-search"></i>
                                                     <img  src="images/hotel/elizabeth_room.jpg"   alt="">
-                                                    </a>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- end gallery items -->
                                 </div>
                             </div>
-
                             <div class="bold-separator">
                                 <span></span>
                             </div>
@@ -207,6 +191,9 @@
                                     <p></p>
                                 </div>
                             </div>
+                        </div>
+                        <div class="menu-link">
+                            <a class="custom-scroll-link link" style="float:none; text-align:center; margin-top: 60px;" href="https://via.eviivo.com/kingsnw3" target="_new">Check Availability</a>
                         </div>
                     </section>
                     <!--section end-->
