@@ -48,10 +48,10 @@
                         <div class="nav-holder">
                             <nav>
                                 <ul>
-                                    <li><a href="../index.php" class="external">Home</a></li>
+                                    <li><a href="#sec1" class="external act-link">Home</a></li>
                                     <li><a href="#sec4">Gallery</a></li>
                                     <li><a href="#sec5">Contact</a></li>
-                                    <li><a href="hotel.php" class="external act-link">Hotel</a></li>
+                                    <li><a href="../index.php" class="external">Pub</a></li>
                                 </ul>
                             </nav>
                         </div>
@@ -62,7 +62,7 @@
             <!--=============== wrapper ===============-->	
             <div id="wrapper">
                 <div class="content">
-                    <section class="parallax-section header-section">
+                    <section class="parallax-section header-section" id="sec1">
                         <div class="bg bg-parallax" style="background-image:url(images/bg/bg_hotel_1.jpg)" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);"></div>
                         <div class="overlay"></div>
                         <div class="container">
@@ -253,5 +253,16 @@
         <script type="text/javascript" src="js/jquery.min.js"></script>
         <script type="text/javascript" src="js/plugins.js"></script>
         <script type="text/javascript" src="js/scripts.js"></script>
+        <script>
+        document.querySelectorAll('.nav-holder nav a').forEach(function(link) {
+            link.addEventListener('click', function() {
+                if (window.innerWidth <= 1036) {
+                    setTimeout(function() {
+                        document.querySelector('.nav-holder').style.display = 'none';
+                    }, 150);
+                }
+            });
+        });
+        </script>
     </body>
 </html>
