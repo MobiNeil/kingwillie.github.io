@@ -111,35 +111,7 @@
                                         <a class="next-slide transition"><i class="fa fa-angle-right"></i></a>
                                         <a class="prev-slide transition"><i class="fa fa-angle-left"></i></a>
                                     </div>
-                                    <div class="single-slider owl-carousel">
-                                        <div class="item">
-                                            <img src="images/pub/pub1.jpg" class="respimg" alt="">
-                                        </div>
-                                        <div class="item">
-                                            <img src="images/pub/pub9.jpg" class="respimg" alt="">
-                                        </div>
-                                        <div class="item">
-                                            <img src="images/pub/pub10.jpg" class="respimg" alt="">
-                                        </div>
-                                        <div class="item">
-                                            <img src="images/pub/pub2.jpg" class="respimg" alt="">
-                                        </div>
-                                        <div class="item">
-                                            <img src="images/pub/pub4.jpg" class="respimg" alt="">
-                                        </div>
-                                        <div class="item">
-                                            <img src="images/pub/pub3.jpg" class="respimg" alt="">
-                                        </div>
-                                        <div class="item">
-                                            <img src="images/pub/pub11.jpg" class="respimg" alt="">
-                                        </div>
-                                        <div class="item">
-                                            <img src="images/pub/pub5.jpg" class="respimg" alt="">
-                                        </div>
-                                        <div class="item">
-                                            <img src="images/pub/pub6.jpg" class="respimg" alt="">
-                                        </div>
-                                    </div>
+                                    <?php include 'includes/pub_gallery.html'; ?>
                                 </div>
                             </div>
                         </div>
@@ -151,13 +123,13 @@
                                     <h4 class="decor-title">Crêpes & Cats</h4>
                                 </div>
                                 <p>Two lively black cats (Willy and Lily) live on the premises.</p>
-                                <p>The crêpe stall outside is run by a man called Tom Jones – as Jimmy will tell you,<br/> that’s not unusual.</p>
+                                <p>The crêpe stall outside is run by a man called Tom Jones –<br/>as Jimmy will tell you, that’s not unusual.</p>
                             </div>
                             <div class="col-md-6">
                                 <div class="section-title">
                                     <h4 class="decor-title">Kitchen</h4>
                                 </div>
-                                <p>Traditional pub fare and a fine roast on Sunday, cooked by Slawek.</p>
+                                <p>Traditional pub fare and a fine roast on Sunday,<br/>cooked by Slawek.</p>
                             </div>
                         </div>
                     </div>
@@ -178,34 +150,7 @@
                     <div class="container">
                         <div class="row happening-row">
                             <div class="col-md-6">
-                                <div class="section-title">
-                                    <h3 style="line-height:1.8;">Monday</h3>
-                                    <div class="menu-item-desc" style="float:none; text-align:center;">Open Mic 7.30pm</div>
-                                </div>
-                                <div class="section-title">
-                                    <h3 style="line-height:1.8;">Tuesday</h3>
-                                    <div class="menu-item-desc" style="float:none; text-align:center;">Quiz Night</div>
-                                </div>
-                                <div class="section-title">
-                                    <h3 style="line-height:1.8;">Wednesday</h3>
-                                    <div class="menu-item-desc" style="float:none; text-align:center;">Live Music 8.00pm</div>
-                                </div>
-                                <div class="section-title">
-                                    <h3 style="line-height:1.8;">Thursday</h3>
-                                    <div class="menu-item-desc" style="float:none; text-align:center;">Piano Sing-along 8.00pm</div>
-                                </div>
-                                <div class="section-title">
-                                    <h3 style="line-height:1.8;">Friday</h3>
-                                    <div class="menu-item-desc" style="float:none; text-align:center;">Live Music, Late Bar</div>
-                                </div>
-                                <div class="section-title">
-                                    <h3 style="line-height:1.8;">Saturday</h3>
-                                    <div class="menu-item-desc" style="float:none; text-align:center;">Late Bar & Tunes</div>
-                                </div>
-                                <div class="section-title">
-                                    <h3 style="line-height:1.8;">Sunday</h3>
-                                    <div class="menu-item-desc" style="float:none; text-align:center;">Sunday Roasts & Bloody Marys</div>
-                                </div>
+                                <?php include 'includes/whats_on.html'; ?>
                             </div>
                             <div class="col-md-6">
                                 <div class="section-title">
