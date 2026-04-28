@@ -1869,7 +1869,7 @@ footer:after {
 .footer-inner {
 	float:left;
 	width:100%;
-	padding:90px 0;
+	padding:50px 0;
 }
 .to-top-holder {
 	float:left;
@@ -1954,10 +1954,10 @@ footer:after {
 .footer-social h3 {
 	font-family: 'Playball', cursive;
 	font-size:34px;
-	margin-bottom: 50px;
+	margin-bottom: 30px;
 }
 .footer-social ul {
-	margin-top:20px;
+	margin-top:0px;
 }
 .footer-social ul li {
 	display:inline-block;

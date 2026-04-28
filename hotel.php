@@ -77,16 +77,16 @@
                                 <h4>Location</h4>
                             </div>
                             <div class="inner">
-                                <p>The comfortable boutique rooms are situated above the King William IV pub. In the ideal location of Hampstead High Street.</p>
+                                <p>The comfortable boutique rooms are situated above the King William IV Pub in the ideal location of Hampstead High Street.</p>
                             </div>
                             <div class="inner">
-                                <p>A short walk from the rolling hills of Hampstead Heath where, after moving to Hampstead in 1819, John Constable painted the beautiful scenery.</p>
+                                <p>The pub is a short walk from the rolling hills of Hampstead Heath. This beautiful scenery was famously painted by John Constable after he moved to Hampstead in 1819.</p>
                             </div>
                             <div class="inner">
-                                <p>A short walk down the hill is John Keats’ House where in 1819 he stood in the garden, on a summer evening, heard a nightingale and was inspired to write.</p>
+                                <p>Down the hill is John Keats’ House where, in 1819, he stood in the garden on a summer evening, and after hearing a nightingale, was inspired to write.</p>
                             </div>
                             <div class="inner">
-                                <p>As well as being nestled amongst the shops, restaurants and cafés on the high street, the hotel is close to good transport links. Hampstead Tube station, on the Northern Line, is a 1-minute walk. The West End of London, with all its theatres, shops, nightlife and galleries, are only a short tube ride away. There are plenty of buses too.</p>
+                                <p>As well as being nestled amongst the shops, restaurants and cafés on the High Street, the hotel is close to good transport links. Hampstead Tube station, on the Northern Line, is a one-minute walk. The West End of London, with all its theatres, shops, nightlife, and galleries, are only a short tube ride away. There are plenty of buses too.</p>
                             </div>
                             <div class="bold-separator">
                                 <span></span>
@@ -122,7 +122,7 @@
                                     <p>Catherine room has a king size bed.</p>
                                     <p>Victoria room has twin beds.</p>
                                     <p>All have a shower ensuite, free WiFi, ironing facilities, hairdryer, tea and coffee making facilities.</p>
-                                    <p>All are rooms are non-smoking.</p>
+                                    <p>All our rooms are non-smoking.</p>
                                     <p>Please note, we are not a B & B. There are plenty of breakfast options on the high street and we will happily offer recommendations.</p>
                                     <p>Also, the rooms are situated above a vibrant pub, so expect to hear some laughter, chat and occasional singing in the background before the pub closes at 11pm.</p>
                                 </div>

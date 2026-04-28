@@ -5,7 +5,7 @@
                 <!--footer social links-->
                 <div class="col-md-12">
                     <div class="footer-social">
-                        <h3>Find us</h3>
+                        <h3>Connect with us</h3>
                         <ul>
                             <?php include 'includes/socials.html'; ?>
                         </ul>

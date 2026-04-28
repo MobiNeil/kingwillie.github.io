@@ -76,7 +76,7 @@
                                 <div class="half-circle"></div>
                             </div>
                             <div class="separator color-separator"></div>
-                            <h3>The King William IV Pub & Rooms</h3>
+                            <h3>The King William IV<br/>Pub & Rooms</h3>
                             <h4>Hampstead's Favourite Pub</h4>
                         </div>
                     </div>
@@ -97,9 +97,9 @@
                                     <h3>Our story</h3>
                                     <h4 class="decor-title">The King William IV Pub</h4>
                                 </div>
-                                <p>The King William IV is a historic grade II listed coaching inn from 1767. Previously known as the King’s Head, the coronation of King William IV lead to the pub being renamed in 1830. King William IV liked to frequent the area and we can understand why. </p>
-                                <p>The walls of the pub are adorned with pictures of the many famous artists, singers, actors and writers who have chosen to make Hampstead their home.</p>
-                                <p>Legendary Irish publican Jimmy McGrath, who has been running pubs in London since the 1960s, is the current landlord.</p>
+                                <p>The King William IV is a historic grade II listed coaching inn from 1767. Previously known as the King’s Head, the coronation of King William IV led to the pub being renamed in 1830. King William IV liked to frequent the area and we can understand why. </p>
+                                <p>The walls of the pub are adorned with pictures of the many famous artists, singers, actors, and writers who have chosen to make Hampstead their home.</p>
+                                <p>Legendary Irish publican, Jimmy McGrath, who has been running pubs in London since the 1960s, is the current landlord.</p>
                                 <p>Jimmy took over the pub in 2015 (it was previously a famous gay pub).</p>
                                 <p>With the help of his family, they welcome everyone.</p>
                                 <p></p>
@@ -148,10 +148,10 @@
                             <div class="col-md-6">
                                 <p></p>
                                 <div class="section-title">
-                                    <h4 class="decor-title">Crepes & Cats</h4>
+                                    <h4 class="decor-title">Crêpes & Cats</h4>
                                 </div>
                                 <p>Two lively black cats (Willy and Lily) live on the premises.</p>
-                                <p>The crêpe stall outside is run by a man called Tom Jones– as Jimmy will tell you,<br/> that’s not unusual.</p>
+                                <p>The crêpe stall outside is run by a man called Tom Jones – as Jimmy will tell you,<br/> that’s not unusual.</p>
                             </div>
                             <div class="col-md-6">
                                 <div class="section-title">
