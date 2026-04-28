@@ -182,7 +182,7 @@ section {
 }
 .menu-link a {
 	font-weight:bold;
-	font-size:2em;
+	font-size:1.6em;
 }
 .section-separator {
 	float:right;
@@ -2867,7 +2867,8 @@ article h4 a:hover {
 	background:#191919;
 	padding:30px 0;
 	display:none;
-	height:300px;
+	max-height:80vh;
+    height:auto;
 	overflow:auto;
 }
 nav ul li {
@@ -2993,6 +2994,22 @@ nav li:hover > ul {
 .mobile-reverse {
     display: flex;
     flex-direction: column-reverse;
+}
+
+/* NH ensure menu shows when switching between narrow and wide screens */
+@media only screen and (min-width: 1037px) {
+    .nav-holder {
+        display:block !important;
+        position:relative;
+        top:auto;
+        left:auto;
+        width:auto;
+        height:auto !important;
+        max-height:none !important;
+        overflow:visible !important;
+        background:none;
+        padding:0;
+    }
 }
 
 @media (min-width: 768px) {

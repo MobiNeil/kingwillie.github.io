@@ -15,6 +15,11 @@
         <link type="text/css" rel="stylesheet" href="css/color.css">
         <!--=============== favicons ===============-->
         <link rel="shortcut icon" href="images/favicon.ico">
+        <style>
+            html {
+                scroll-behavior: smooth;
+            }
+        </style>
     </head>
     <body>
         <div class="loader"><img src="images/loader.png" alt=""></div>
@@ -43,12 +48,10 @@
                         <div class="nav-holder">
                             <nav>
                                 <ul>
-                                    <li><a href="../index.php">Home</a></li>
-                                    <li><a href="../index.php#sec2">About</a></li>
-                                    <li><a href="../index.php#sec3">Menu</a></li>
-                                    <li><a href="../index.php#sec4">Gallery</a></li>
-                                    <li><a href="../index.php#sec6">Contact</a></li>
-                                    <li><a href="hotel.php" class="act-link">Hotel</a></li>
+                                    <li><a href="../index.php" class="external">Home</a></li>
+                                    <li><a href="#sec4">Gallery</a></li>
+                                    <li><a href="#sec5">Contact</a></li>
+                                    <li><a href="hotel.php" class="external act-link">Hotel</a></li>
                                 </ul>
                             </nav>
                         </div>
@@ -85,7 +88,9 @@
                             <div class="bold-separator">
                                 <span></span>
                             </div>
-                            <a class="custom-scroll-link link" href="https://via.eviivo.com/kingsnw3" target="_new">Check Availability</a>
+                            <div class="menu-link">
+                                <a class="custom-scroll-link link" href="https://via.eviivo.com/kingsnw3" target="_new">Check Availability</a>
+                            </div>
                         </div>
                     </section>
                     <section class="parallax-section" id="sec4">
@@ -198,7 +203,7 @@
                         </div>
                     </section>
                     <!--section end-->
-                    <section class="parallax-section" id="sec6">
+                    <section class="parallax-section" id="sec5">
                         <div class="bg bg-parallax" style="background-image:url(images/bg/bg_hotel_3.jpg)" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);"></div>
                         <div class="overlay"></div>
                         <div class="container">
