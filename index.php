@@ -94,13 +94,15 @@
                             <!--about text-->
                             <div class="col-md-6">
                                 <div class="section-title">
-                                    <h3>Discover</h3>
-                                    <h4 class="decor-title">Our story</h4>
-                                    <div class="separator color-separator"></div>
+                                    <h3>Our story</h3>
+                                    <h4 class="decor-title">The King William IV Pub</h4>
                                 </div>
-                                <p>Our walls are dedicated to the people of Hampstead with over 100 portraits throughout the pub walls with maximalist effect. We offer the best Drink Deals in the village along with serving award winning traditional pub food 7 days a week!</p>
-                                <p>I welcome you to Hampstead.</p>
-                                <p>Mr James Mcgrath</p>
+                                <p>The King William IV is a historic grade II listed coaching inn from 1767. Previously known as the King’s Head, the coronation of King William IV lead to the pub being renamed in 1830. King William IV liked to frequent the area and we can understand why. </p>
+                                <p>The walls of the pub are adorned with pictures of the many famous artists, singers, actors and writers who have chosen to make Hampstead their home.</p>
+                                <p>Legendary Irish publican Jimmy McGrath, who has been running pubs in London since the 1960s, is the current landlord.</p>
+                                <p>Jimmy took over the pub in 2015 (it was previously a famous gay pub).</p>
+                                <p>With the help of his family, they welcome everyone.</p>
+                                <p></p>
                             </div>
                             <!-- about images-->
                             <div class="col-md-6">
@@ -139,6 +141,23 @@
                                         </div>
                                     </div>
                                 </div>
+                            </div>
+                        </div>
+                        <div class="row about-row bottom-align">
+                            <!--about text row 2-->
+                            <div class="col-md-6">
+                                <p></p>
+                                <div class="section-title">
+                                    <h4 class="decor-title">Crepes & Cats</h4>
+                                </div>
+                                <p>Two lively black cats (Willy and Lily) live on the premises.</p>
+                                <p>The crêpe stall outside is run by a man called Tom Jones– as Jimmy will tell you,<br/> that’s not unusual.</p>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="section-title">
+                                    <h4 class="decor-title">Kitchen</h4>
+                                </div>
+                                <p>Traditional pub fare and a fine roast on Sunday, cooked by Slawek.</p>
                             </div>
                         </div>
                     </div>

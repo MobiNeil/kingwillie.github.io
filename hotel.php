@@ -66,7 +66,7 @@
                         <div class="bg bg-parallax" style="background-image:url(images/bg/bg_hotel_1.jpg)" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);"></div>
                         <div class="overlay"></div>
                         <div class="container">
-                            <h2>Our Hotel</h2>
+                            <h2>King William IV Hotel</h2>
                             <h3>Stay in the heart of Hampstead</h3>
                         </div>
                     </section>
@@ -74,16 +74,19 @@
                     	<div class="triangle-decor"></div>
                         <div class="container">
                             <div class="section-title">
-                                <h4>Welcome</h4>
+                                <h4>Location</h4>
                             </div>
                             <div class="inner">
-                                <p>King's Boutique Hotel rooms are individually designed and are situated above the King William public house nestled in the heart of Hampstead High Street.</p>
+                                <p>The comfortable boutique rooms are situated above the King William IV pub. In the ideal location of Hampstead High Street.</p>
                             </div>
                             <div class="inner">
-                                <p>The green oasis of Hampstead Heath is a short walk away, as is the well-known white stone pond and Kenwood House. We are a 1 minute walk from the tube station and only a short tube ride into London's West End and Theatres. Hampstead is 4 miles north-west of Charing Cross. Part of the London Borough of Camden in Inner London, it is known for its intellectual, liberal, artistic, musical and literary associations and for Hampstead Heath. The village of Hampstead has more millionaires within its boundaries than any other area of the UK.</p>
+                                <p>A short walk from the rolling hills of Hampstead Heath where, after moving to Hampstead in 1819, John Constable painted the beautiful scenery.</p>
                             </div>
                             <div class="inner">
-                                <p>Hampstead has long been known as a residence of the intelligentsia, including writers, media personalities, composers, ballerinas, intellectuals, actors, artists and architects through to the modern day celebrity ensemble. The area has much of its original village character, and Hampstead High Street alone houses no less than 18 grade II listed buildings. There are many restaurants, pubs, cafes, theatres and parks plus boutique shops.</p>
+                                <p>A short walk down the hill is John Keats’ House where in 1819 he stood in the garden, on a summer evening, heard a nightingale and was inspired to write.</p>
+                            </div>
+                            <div class="inner">
+                                <p>As well as being nestled amongst the shops, restaurants and cafés on the high street, the hotel is close to good transport links. Hampstead Tube station, on the Northern Line, is a 1-minute walk. The West End of London, with all its theatres, shops, nightlife and galleries, are only a short tube ride away. There are plenty of buses too.</p>
                             </div>
                             <div class="bold-separator">
                                 <span></span>
@@ -107,17 +110,21 @@
                         <div class="triangle-decor">
                         </div>
                         <div class="container">
-
-
                             <div class="row">
                                 <!--about text-->
                                 <div class="col-md-6">
                                     <div class="section-title">
-                                        <h3>Virtual Tour</h3>
+                                        <!-- <h3>Virtual Tour</h3> -->
                                         <h4 class="decor-title">Our rooms</h4>
                                         <div class="separator color-separator"></div>
                                     </div>
-                                    <p>Take an interactive look around one of our rooms. Each of our rooms contains cupbaords, beds, and lots of other exciting stuff. Everything you could imagine for a super stay.</p>
+                                    <p>Adelaide and Elizabeth rooms have king size four-poster beds.</p>
+                                    <p>Catherine room has a king size bed.</p>
+                                    <p>Victoria room has twin beds.</p>
+                                    <p>All have a shower ensuite, free WiFi, ironing facilities, hairdryer, tea and coffee making facilities.</p>
+                                    <p>All are rooms are non-smoking.</p>
+                                    <p>Please note, we are not a B & B. There are plenty of breakfast options on the high street and we will happily offer recommendations.</p>
+                                    <p>Also, the rooms are situated above a vibrant pub, so expect to hear some laughter, chat and occasional singing in the background before the pub closes at 11pm.</p>
                                 </div>
                                 <!-- about images-->
                                 <div class="col-md-6">

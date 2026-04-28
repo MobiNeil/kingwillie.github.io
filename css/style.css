@@ -283,6 +283,11 @@ section.header-section {
 	float:none;
 	text-align:center;
 }
+.about-section p {
+	font-size: 18px;
+	float:none;
+	text-align:center;
+}
 .bold-separator {
 	float:left;
 	width:100%;
@@ -3030,6 +3035,17 @@ nav li:hover > ul {
 	.menu-row {
         display: flex;
         align-items: center;
+    }
+}
+
+@media (min-width: 992px) {
+    .about-row.bottom-align {
+        align-items: flex-end;
+    }
+}
+@media (max-width: 991px) {
+    .about-section .about-row:nth-of-type(2) .decor-title {
+        margin-top: 25px;
     }
 }
 
