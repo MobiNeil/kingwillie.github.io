@@ -1699,7 +1699,7 @@ article {
     text-align: center;
 	color: #c9a96e;       
     font-style: italic;
-	font-size: 28px;
+	font-size: 24px;
     font-family: 'Playfair Display', serif;
 }
 .quiz-image {
@@ -2481,6 +2481,7 @@ article h4 a:hover {
 	height:550px;
 	position:relative;
 	overflow:hidden;
+	margin-bottom: 50px;
 }
 .map-holder {
 	position:absolute;
