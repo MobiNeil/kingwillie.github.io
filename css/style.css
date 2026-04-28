@@ -1649,6 +1649,7 @@ article {
   gap: 8px;
   color: #fff; /* adjust if needed */
   font-weight: bold;
+  font-size:22px;
   text-decoration: none;
 }
 .google-icon {
