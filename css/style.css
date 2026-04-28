@@ -345,16 +345,18 @@ section.header-section {
 	text-align:center;
 	font-size:18px;
 }
-.link {
-	font-size:17px;
-	padding:10px 15px;
-	display:inline-table;
-	font-weight:bold;
-	font-family: 'Playball', cursive;
-	letter-spacing:2px;
-	margin-bottom:20px;
+.link,
+.link:visited {
+    font-size:17px;
+    padding:10px 15px;
+    display:inline-table;
+    font-weight:bold;
+    font-family: 'Playball', cursive;
+    letter-spacing:2px;
+    margin-bottom:20px;
     transition: all 200ms linear;
-	text-transform:uppercase;
+    text-transform:uppercase;
+    color:#C59D5F;
 }
 .align-link {
 	margin-top:30px;
@@ -364,6 +366,12 @@ section.header-section {
 }
 .align-link:hover {
 	color:#fff;
+}
+@media (max-width: 991px) {
+    a.link {
+        font-size: 22px !important;
+        letter-spacing: 1px !important;
+    }
 }
 .section-icon {
 	width:60px;
