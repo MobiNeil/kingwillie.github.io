@@ -58,10 +58,10 @@
                 <div class="slideshow-container">
                     <!-- parallax image -->
                     <div class="media-container" data-top-bottom="transform: translateY(300px);" data-bottom-top="transform: translateY(-300px);">
-                        <div class="bg" style="background-image: url(images/bg/bg_hotel_1.jpg)"></div>
+                        <!-- <div class="bg" style="background-image: url(images/bg/bg_hotel_1.jpg)"></div> -->
                         <!-- <div class="bg" style="background-image: url(images/bg/bg_hotel_7.jpg)"></div> -->
                         <!-- <div class="bg" style="background-image: url(images/bg/bg_hotel_8.jpg)"></div> -->
-                        <!-- <div class="bg" style="background-image: url(images/bg/bg_hotel_9.jpg)"></div> -->
+                        <div class="bg" style="background-image: url(images/bg/bg_hotel_9.jpg)"></div>
                         <!-- <div class="bg" style="background-image: url(images/bg/bg_hotel_10.jpg)"></div> -->
                     </div>
                     <div class="hero-title-holder">
